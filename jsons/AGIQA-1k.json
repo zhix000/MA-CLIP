@@ -1,0 +1,4322 @@
+[
+    {
+        "img_path": "deepai_0_0_0_0.jpg",
+        "gt_score": 2.7934105045636524
+    },
+    {
+        "img_path": "deepai_0_0_0_1.jpg",
+        "gt_score": 4.159969360254004
+    },
+    {
+        "img_path": "deepai_0_0_1_0.jpg",
+        "gt_score": 3.4862347848568365
+    },
+    {
+        "img_path": "deepai_0_0_1_1.jpg",
+        "gt_score": 2.4619764561843307
+    },
+    {
+        "img_path": "deepai_0_1_0_0.jpg",
+        "gt_score": 2.6468698299611035
+    },
+    {
+        "img_path": "deepai_0_1_0_1.jpg",
+        "gt_score": 2.685595472540848
+    },
+    {
+        "img_path": "deepai_0_1_1_0.jpg",
+        "gt_score": 2.751209997568689
+    },
+    {
+        "img_path": "deepai_0_1_1_1.jpg",
+        "gt_score": 2.915541194578608
+    },
+    {
+        "img_path": "deepai_0_10_0_0.jpg",
+        "gt_score": 2.315683428435662
+    },
+    {
+        "img_path": "deepai_0_10_0_1.jpg",
+        "gt_score": 2.8145873408867215
+    },
+    {
+        "img_path": "deepai_0_10_1_0.jpg",
+        "gt_score": 2.7142423173161987
+    },
+    {
+        "img_path": "deepai_0_10_1_1.jpg",
+        "gt_score": 2.878534379783441
+    },
+    {
+        "img_path": "deepai_0_11_0_0.jpg",
+        "gt_score": 2.964871092867692
+    },
+    {
+        "img_path": "deepai_0_11_0_1.jpg",
+        "gt_score": 4.410898610516716
+    },
+    {
+        "img_path": "deepai_0_11_1_0.jpg",
+        "gt_score": 3.3241957711148444
+    },
+    {
+        "img_path": "deepai_0_11_1_1.jpg",
+        "gt_score": 2.3602495612350465
+    },
+    {
+        "img_path": "deepai_0_12_0_0.jpg",
+        "gt_score": 2.4569882665449083
+    },
+    {
+        "img_path": "deepai_0_12_0_1.jpg",
+        "gt_score": 3.2262158782300103
+    },
+    {
+        "img_path": "deepai_0_12_1_0.jpg",
+        "gt_score": 3.602957099994629
+    },
+    {
+        "img_path": "deepai_0_12_1_1.jpg",
+        "gt_score": 3.367134900737525
+    },
+    {
+        "img_path": "deepai_0_13_0_0.jpg",
+        "gt_score": 2.2565310193712476
+    },
+    {
+        "img_path": "deepai_0_13_0_1.jpg",
+        "gt_score": 3.0596697236777057
+    },
+    {
+        "img_path": "deepai_0_13_1_0.jpg",
+        "gt_score": 2.055584546985154
+    },
+    {
+        "img_path": "deepai_0_13_1_1.jpg",
+        "gt_score": 2.0699250367458917
+    },
+    {
+        "img_path": "deepai_0_14_0_0.jpg",
+        "gt_score": 3.01785011693714
+    },
+    {
+        "img_path": "deepai_0_14_0_1.jpg",
+        "gt_score": 3.7092467706470655
+    },
+    {
+        "img_path": "deepai_0_14_1_0.jpg",
+        "gt_score": 2.730899468491693
+    },
+    {
+        "img_path": "deepai_0_14_1_1.jpg",
+        "gt_score": 3.473402250548638
+    },
+    {
+        "img_path": "deepai_0_2_0_0.jpg",
+        "gt_score": 4.075553053252517
+    },
+    {
+        "img_path": "deepai_0_2_0_1.jpg",
+        "gt_score": 1.9520389498254767
+    },
+    {
+        "img_path": "deepai_0_2_1_0.jpg",
+        "gt_score": 2.6803007270463564
+    },
+    {
+        "img_path": "deepai_0_2_1_1.jpg",
+        "gt_score": 2.5190716388298653
+    },
+    {
+        "img_path": "deepai_0_3_0_0.jpg",
+        "gt_score": 2.8564591739006215
+    },
+    {
+        "img_path": "deepai_0_3_0_1.jpg",
+        "gt_score": 3.3751293125081734
+    },
+    {
+        "img_path": "deepai_0_3_1_0.jpg",
+        "gt_score": 3.356771852987784
+    },
+    {
+        "img_path": "deepai_0_3_1_1.jpg",
+        "gt_score": 2.9154277029880813
+    },
+    {
+        "img_path": "deepai_0_4_0_0.jpg",
+        "gt_score": 2.9596150924147335
+    },
+    {
+        "img_path": "deepai_0_4_0_1.jpg",
+        "gt_score": 2.4629856966610832
+    },
+    {
+        "img_path": "deepai_0_4_1_0.jpg",
+        "gt_score": 2.3303215732235967
+    },
+    {
+        "img_path": "deepai_0_4_1_1.jpg",
+        "gt_score": 2.933034641526733
+    },
+    {
+        "img_path": "deepai_0_5_0_0.jpg",
+        "gt_score": 2.53781285046323
+    },
+    {
+        "img_path": "deepai_0_5_0_1.jpg",
+        "gt_score": 1.987828400909992
+    },
+    {
+        "img_path": "deepai_0_5_1_0.jpg",
+        "gt_score": 2.8266829587293714
+    },
+    {
+        "img_path": "deepai_0_5_1_1.jpg",
+        "gt_score": 2.1142921380537385
+    },
+    {
+        "img_path": "deepai_0_6_0_0.jpg",
+        "gt_score": 2.8894452529900434
+    },
+    {
+        "img_path": "deepai_0_6_0_1.jpg",
+        "gt_score": 2.4520555123639873
+    },
+    {
+        "img_path": "deepai_0_6_1_0.jpg",
+        "gt_score": 2.8790570773634823
+    },
+    {
+        "img_path": "deepai_0_6_1_1.jpg",
+        "gt_score": 1.698700921136731
+    },
+    {
+        "img_path": "deepai_0_7_0_0.jpg",
+        "gt_score": 2.7380109587492516
+    },
+    {
+        "img_path": "deepai_0_7_0_1.jpg",
+        "gt_score": 3.0942994650339286
+    },
+    {
+        "img_path": "deepai_0_7_1_0.jpg",
+        "gt_score": 2.957250257837281
+    },
+    {
+        "img_path": "deepai_0_7_1_1.jpg",
+        "gt_score": 3.0434524751507066
+    },
+    {
+        "img_path": "deepai_0_8_0_0.jpg",
+        "gt_score": 2.6334824596092368
+    },
+    {
+        "img_path": "deepai_0_8_0_1.jpg",
+        "gt_score": 2.9097179515368636
+    },
+    {
+        "img_path": "deepai_0_8_1_0.jpg",
+        "gt_score": 2.4279722965847936
+    },
+    {
+        "img_path": "deepai_0_8_1_1.jpg",
+        "gt_score": 1.6631885099764177
+    },
+    {
+        "img_path": "deepai_0_9_0_0.jpg",
+        "gt_score": 2.9932162205615156
+    },
+    {
+        "img_path": "deepai_0_9_0_1.jpg",
+        "gt_score": 3.9638100881446268
+    },
+    {
+        "img_path": "deepai_0_9_1_0.jpg",
+        "gt_score": 3.278513421292411
+    },
+    {
+        "img_path": "deepai_0_9_1_1.jpg",
+        "gt_score": 1.8454857204806403
+    },
+    {
+        "img_path": "deepai_1_0_0_0.jpg",
+        "gt_score": 2.5398185040436014
+    },
+    {
+        "img_path": "deepai_1_0_0_1.jpg",
+        "gt_score": 3.8156485844782906
+    },
+    {
+        "img_path": "deepai_1_0_1_0.jpg",
+        "gt_score": 3.2830132385885658
+    },
+    {
+        "img_path": "deepai_1_0_1_1.jpg",
+        "gt_score": 3.91937154614685
+    },
+    {
+        "img_path": "deepai_1_1_0_0.jpg",
+        "gt_score": 2.7059238059805066
+    },
+    {
+        "img_path": "deepai_1_1_0_1.jpg",
+        "gt_score": 2.0356427853424925
+    },
+    {
+        "img_path": "deepai_1_1_1_0.jpg",
+        "gt_score": 2.438638069320326
+    },
+    {
+        "img_path": "deepai_1_1_1_1.jpg",
+        "gt_score": 2.7453446718756314
+    },
+    {
+        "img_path": "deepai_1_10_0_0.jpg",
+        "gt_score": 2.0465949943726742
+    },
+    {
+        "img_path": "deepai_1_10_0_1.jpg",
+        "gt_score": 2.8099901339053663
+    },
+    {
+        "img_path": "deepai_1_10_1_0.jpg",
+        "gt_score": 2.954689768213242
+    },
+    {
+        "img_path": "deepai_1_10_1_1.jpg",
+        "gt_score": 2.304444393609687
+    },
+    {
+        "img_path": "deepai_1_11_0_0.jpg",
+        "gt_score": 2.531077588946309
+    },
+    {
+        "img_path": "deepai_1_11_0_1.jpg",
+        "gt_score": 2.612890409161085
+    },
+    {
+        "img_path": "deepai_1_11_1_0.jpg",
+        "gt_score": 1.976837057337133
+    },
+    {
+        "img_path": "deepai_1_11_1_1.jpg",
+        "gt_score": 2.1857827507997794
+    },
+    {
+        "img_path": "deepai_1_12_0_0.jpg",
+        "gt_score": 4.031783586140512
+    },
+    {
+        "img_path": "deepai_1_12_0_1.jpg",
+        "gt_score": 2.9692548721905094
+    },
+    {
+        "img_path": "deepai_1_12_1_0.jpg",
+        "gt_score": 2.96968273583569
+    },
+    {
+        "img_path": "deepai_1_12_1_1.jpg",
+        "gt_score": 4.194483749246269
+    },
+    {
+        "img_path": "deepai_1_13_0_0.jpg",
+        "gt_score": 2.6603860955509213
+    },
+    {
+        "img_path": "deepai_1_13_0_1.jpg",
+        "gt_score": 2.589072847313763
+    },
+    {
+        "img_path": "deepai_1_13_1_0.jpg",
+        "gt_score": 2.7415230647591637
+    },
+    {
+        "img_path": "deepai_1_13_1_1.jpg",
+        "gt_score": 2.7271819211397594
+    },
+    {
+        "img_path": "deepai_1_14_0_0.jpg",
+        "gt_score": 3.0169494844542943
+    },
+    {
+        "img_path": "deepai_1_14_0_1.jpg",
+        "gt_score": 3.0380151537521245
+    },
+    {
+        "img_path": "deepai_1_14_1_0.jpg",
+        "gt_score": 2.2016073015628526
+    },
+    {
+        "img_path": "deepai_1_14_1_1.jpg",
+        "gt_score": 3.9624162740126083
+    },
+    {
+        "img_path": "deepai_1_2_0_0.jpg",
+        "gt_score": 3.135996942865934
+    },
+    {
+        "img_path": "deepai_1_2_0_1.jpg",
+        "gt_score": 3.2109579068295258
+    },
+    {
+        "img_path": "deepai_1_2_1_0.jpg",
+        "gt_score": 2.919788543066456
+    },
+    {
+        "img_path": "deepai_1_2_1_1.jpg",
+        "gt_score": 4.187626336861447
+    },
+    {
+        "img_path": "deepai_1_3_0_0.jpg",
+        "gt_score": 2.308561794556081
+    },
+    {
+        "img_path": "deepai_1_3_0_1.jpg",
+        "gt_score": 2.7631279543703786
+    },
+    {
+        "img_path": "deepai_1_3_1_0.jpg",
+        "gt_score": 2.7721866529989785
+    },
+    {
+        "img_path": "deepai_1_3_1_1.jpg",
+        "gt_score": 2.8816822315566872
+    },
+    {
+        "img_path": "deepai_1_4_0_0.jpg",
+        "gt_score": 2.914657314154924
+    },
+    {
+        "img_path": "deepai_1_4_0_1.jpg",
+        "gt_score": 2.6342075267144347
+    },
+    {
+        "img_path": "deepai_1_4_1_0.jpg",
+        "gt_score": 2.811922031598051
+    },
+    {
+        "img_path": "deepai_1_4_1_1.jpg",
+        "gt_score": 2.4003286727845388
+    },
+    {
+        "img_path": "deepai_1_5_0_0.jpg",
+        "gt_score": 2.7657193087608656
+    },
+    {
+        "img_path": "deepai_1_5_0_1.jpg",
+        "gt_score": 2.7118538578849236
+    },
+    {
+        "img_path": "deepai_1_5_1_0.jpg",
+        "gt_score": 3.0513694711290067
+    },
+    {
+        "img_path": "deepai_1_5_1_1.jpg",
+        "gt_score": 2.320564252027644
+    },
+    {
+        "img_path": "deepai_1_6_0_0.jpg",
+        "gt_score": 2.785716567504222
+    },
+    {
+        "img_path": "deepai_1_6_0_1.jpg",
+        "gt_score": 2.9967846153229334
+    },
+    {
+        "img_path": "deepai_1_6_1_0.jpg",
+        "gt_score": 2.919869927944069
+    },
+    {
+        "img_path": "deepai_1_6_1_1.jpg",
+        "gt_score": 2.2012977037823984
+    },
+    {
+        "img_path": "deepai_1_7_0_0.jpg",
+        "gt_score": 3.58999010494731
+    },
+    {
+        "img_path": "deepai_1_7_0_1.jpg",
+        "gt_score": 2.8517551576327533
+    },
+    {
+        "img_path": "deepai_1_7_1_0.jpg",
+        "gt_score": 2.734071997422264
+    },
+    {
+        "img_path": "deepai_1_7_1_1.jpg",
+        "gt_score": 3.7670831835214784
+    },
+    {
+        "img_path": "deepai_1_8_0_0.jpg",
+        "gt_score": 2.7298642785958274
+    },
+    {
+        "img_path": "deepai_1_8_0_1.jpg",
+        "gt_score": 2.272963913656801
+    },
+    {
+        "img_path": "deepai_1_8_1_0.jpg",
+        "gt_score": 1.0793262818533393
+    },
+    {
+        "img_path": "deepai_1_8_1_1.jpg",
+        "gt_score": 2.513355404085131
+    },
+    {
+        "img_path": "deepai_1_9_0_0.jpg",
+        "gt_score": 3.758498819243418
+    },
+    {
+        "img_path": "deepai_1_9_0_1.jpg",
+        "gt_score": 2.9576894136580436
+    },
+    {
+        "img_path": "deepai_1_9_1_0.jpg",
+        "gt_score": 2.236711514637918
+    },
+    {
+        "img_path": "deepai_1_9_1_1.jpg",
+        "gt_score": 3.311779749491203
+    },
+    {
+        "img_path": "deepai_10_0_0_0.jpg",
+        "gt_score": 3.0786193542293656
+    },
+    {
+        "img_path": "deepai_10_0_0_1.jpg",
+        "gt_score": 5.0
+    },
+    {
+        "img_path": "deepai_10_0_1_0.jpg",
+        "gt_score": 3.030489542581559
+    },
+    {
+        "img_path": "deepai_10_0_1_1.jpg",
+        "gt_score": 2.3650055076680125
+    },
+    {
+        "img_path": "deepai_10_1_0_0.jpg",
+        "gt_score": 3.317391332254931
+    },
+    {
+        "img_path": "deepai_10_1_0_1.jpg",
+        "gt_score": 3.1307069749266323
+    },
+    {
+        "img_path": "deepai_10_1_1_0.jpg",
+        "gt_score": 2.8570426113638008
+    },
+    {
+        "img_path": "deepai_10_1_1_1.jpg",
+        "gt_score": 4.7338266076787265
+    },
+    {
+        "img_path": "deepai_10_10_0_0.jpg",
+        "gt_score": 3.2656668485676437
+    },
+    {
+        "img_path": "deepai_10_10_0_1.jpg",
+        "gt_score": 4.012272375175136
+    },
+    {
+        "img_path": "deepai_10_10_1_0.jpg",
+        "gt_score": 2.6190404654104644
+    },
+    {
+        "img_path": "deepai_10_10_1_1.jpg",
+        "gt_score": 2.932330746285457
+    },
+    {
+        "img_path": "deepai_10_11_0_0.jpg",
+        "gt_score": 2.6396316013472596
+    },
+    {
+        "img_path": "deepai_10_11_0_1.jpg",
+        "gt_score": 2.91589539858616
+    },
+    {
+        "img_path": "deepai_10_11_1_0.jpg",
+        "gt_score": 2.4312882225379044
+    },
+    {
+        "img_path": "deepai_10_11_1_1.jpg",
+        "gt_score": 4.011103542377608
+    },
+    {
+        "img_path": "deepai_10_12_0_0.jpg",
+        "gt_score": 3.052022801436039
+    },
+    {
+        "img_path": "deepai_10_12_0_1.jpg",
+        "gt_score": 3.0635610686029255
+    },
+    {
+        "img_path": "deepai_10_12_1_0.jpg",
+        "gt_score": 2.6354072238545685
+    },
+    {
+        "img_path": "deepai_10_12_1_1.jpg",
+        "gt_score": 4.8777034274457725
+    },
+    {
+        "img_path": "deepai_10_13_0_0.jpg",
+        "gt_score": 3.2236023090396317
+    },
+    {
+        "img_path": "deepai_10_13_0_1.jpg",
+        "gt_score": 3.2606689790980607
+    },
+    {
+        "img_path": "deepai_10_13_1_0.jpg",
+        "gt_score": 2.279589021192974
+    },
+    {
+        "img_path": "deepai_10_13_1_1.jpg",
+        "gt_score": 3.839178206584123
+    },
+    {
+        "img_path": "deepai_10_14_0_0.jpg",
+        "gt_score": 2.702524139257621
+    },
+    {
+        "img_path": "deepai_10_14_0_1.jpg",
+        "gt_score": 3.523037104572054
+    },
+    {
+        "img_path": "deepai_10_14_1_0.jpg",
+        "gt_score": 2.9787041957267464
+    },
+    {
+        "img_path": "deepai_10_14_1_1.jpg",
+        "gt_score": 3.5205753758519758
+    },
+    {
+        "img_path": "deepai_10_2_0_0.jpg",
+        "gt_score": 2.627467751999846
+    },
+    {
+        "img_path": "deepai_10_2_0_1.jpg",
+        "gt_score": 3.3537951785381392
+    },
+    {
+        "img_path": "deepai_10_2_1_0.jpg",
+        "gt_score": 2.820043973375797
+    },
+    {
+        "img_path": "deepai_10_2_1_1.jpg",
+        "gt_score": 3.246706517633036
+    },
+    {
+        "img_path": "deepai_10_3_0_0.jpg",
+        "gt_score": 2.96568412153693
+    },
+    {
+        "img_path": "deepai_10_3_0_1.jpg",
+        "gt_score": 2.2892013134949347
+    },
+    {
+        "img_path": "deepai_10_3_1_0.jpg",
+        "gt_score": 3.017095533901073
+    },
+    {
+        "img_path": "deepai_10_3_1_1.jpg",
+        "gt_score": 3.9465888101726048
+    },
+    {
+        "img_path": "deepai_10_4_0_0.jpg",
+        "gt_score": 2.2623370465619703
+    },
+    {
+        "img_path": "deepai_10_4_0_1.jpg",
+        "gt_score": 3.030381323664956
+    },
+    {
+        "img_path": "deepai_10_4_1_0.jpg",
+        "gt_score": 2.952086174961262
+    },
+    {
+        "img_path": "deepai_10_4_1_1.jpg",
+        "gt_score": 2.597428535320964
+    },
+    {
+        "img_path": "deepai_10_5_0_0.jpg",
+        "gt_score": 3.0349798346588126
+    },
+    {
+        "img_path": "deepai_10_5_0_1.jpg",
+        "gt_score": 2.54259082120544
+    },
+    {
+        "img_path": "deepai_10_5_1_0.jpg",
+        "gt_score": 2.647091991187731
+    },
+    {
+        "img_path": "deepai_10_5_1_1.jpg",
+        "gt_score": 2.2749748720856515
+    },
+    {
+        "img_path": "deepai_10_6_0_0.jpg",
+        "gt_score": 2.9004719124609823
+    },
+    {
+        "img_path": "deepai_10_6_0_1.jpg",
+        "gt_score": 3.0307056838826893
+    },
+    {
+        "img_path": "deepai_10_6_1_0.jpg",
+        "gt_score": 2.5341181811373863
+    },
+    {
+        "img_path": "deepai_10_6_1_1.jpg",
+        "gt_score": 2.736808905293115
+    },
+    {
+        "img_path": "deepai_10_7_0_0.jpg",
+        "gt_score": 3.249184644366676
+    },
+    {
+        "img_path": "deepai_10_7_0_1.jpg",
+        "gt_score": 3.247177642374567
+    },
+    {
+        "img_path": "deepai_10_7_1_0.jpg",
+        "gt_score": 2.6677099611635158
+    },
+    {
+        "img_path": "deepai_10_7_1_1.jpg",
+        "gt_score": 2.853056497003065
+    },
+    {
+        "img_path": "deepai_10_8_0_0.jpg",
+        "gt_score": 3.9681880376087517
+    },
+    {
+        "img_path": "deepai_10_8_0_1.jpg",
+        "gt_score": 1.9209323427210665
+    },
+    {
+        "img_path": "deepai_10_8_1_0.jpg",
+        "gt_score": 3.2489577672270515
+    },
+    {
+        "img_path": "deepai_10_8_1_1.jpg",
+        "gt_score": 2.74374665919574
+    },
+    {
+        "img_path": "deepai_10_9_0_0.jpg",
+        "gt_score": 2.860022791106849
+    },
+    {
+        "img_path": "deepai_10_9_0_1.jpg",
+        "gt_score": 2.8176076014345175
+    },
+    {
+        "img_path": "deepai_10_9_1_0.jpg",
+        "gt_score": 4.00022633160542
+    },
+    {
+        "img_path": "deepai_10_9_1_1.jpg",
+        "gt_score": 4.631433586799989
+    },
+    {
+        "img_path": "deepai_11_0_0_0.jpg",
+        "gt_score": 3.0638910909957264
+    },
+    {
+        "img_path": "deepai_11_0_0_1.jpg",
+        "gt_score": 3.978825344433842
+    },
+    {
+        "img_path": "deepai_11_0_1_0.jpg",
+        "gt_score": 2.3189215360229154
+    },
+    {
+        "img_path": "deepai_11_0_1_1.jpg",
+        "gt_score": 3.4049701922485895
+    },
+    {
+        "img_path": "deepai_11_1_0_0.jpg",
+        "gt_score": 2.840259079582451
+    },
+    {
+        "img_path": "deepai_11_1_0_1.jpg",
+        "gt_score": 3.1173529536579867
+    },
+    {
+        "img_path": "deepai_11_1_1_0.jpg",
+        "gt_score": 2.9885622741091584
+    },
+    {
+        "img_path": "deepai_11_1_1_1.jpg",
+        "gt_score": 2.7118049991128483
+    },
+    {
+        "img_path": "deepai_11_10_0_0.jpg",
+        "gt_score": 2.7823650739440304
+    },
+    {
+        "img_path": "deepai_11_10_0_1.jpg",
+        "gt_score": 2.9894647057232393
+    },
+    {
+        "img_path": "deepai_11_10_1_0.jpg",
+        "gt_score": 2.3745176962183394
+    },
+    {
+        "img_path": "deepai_11_10_1_1.jpg",
+        "gt_score": 3.1421845335372525
+    },
+    {
+        "img_path": "deepai_11_11_0_0.jpg",
+        "gt_score": 3.0557805352103107
+    },
+    {
+        "img_path": "deepai_11_11_0_1.jpg",
+        "gt_score": 3.418004366073328
+    },
+    {
+        "img_path": "deepai_11_11_1_0.jpg",
+        "gt_score": 3.331565843499116
+    },
+    {
+        "img_path": "deepai_11_11_1_1.jpg",
+        "gt_score": 2.504721562208033
+    },
+    {
+        "img_path": "deepai_11_12_0_0.jpg",
+        "gt_score": 2.5098412990858043
+    },
+    {
+        "img_path": "deepai_11_12_0_1.jpg",
+        "gt_score": 2.291632023261146
+    },
+    {
+        "img_path": "deepai_11_12_1_0.jpg",
+        "gt_score": 2.6763420034855376
+    },
+    {
+        "img_path": "deepai_11_12_1_1.jpg",
+        "gt_score": 2.925775501701658
+    },
+    {
+        "img_path": "deepai_11_13_0_0.jpg",
+        "gt_score": 3.132431168778041
+    },
+    {
+        "img_path": "deepai_11_13_0_1.jpg",
+        "gt_score": 3.930151367233837
+    },
+    {
+        "img_path": "deepai_11_13_1_0.jpg",
+        "gt_score": 2.3046778791864506
+    },
+    {
+        "img_path": "deepai_11_13_1_1.jpg",
+        "gt_score": 2.903225572390995
+    },
+    {
+        "img_path": "deepai_11_14_0_0.jpg",
+        "gt_score": 2.3657547563879615
+    },
+    {
+        "img_path": "deepai_11_14_0_1.jpg",
+        "gt_score": 2.9255871089508756
+    },
+    {
+        "img_path": "deepai_11_14_1_0.jpg",
+        "gt_score": 3.243599567782988
+    },
+    {
+        "img_path": "deepai_11_14_1_1.jpg",
+        "gt_score": 2.8554666850591888
+    },
+    {
+        "img_path": "deepai_11_2_0_0.jpg",
+        "gt_score": 2.718457465698224
+    },
+    {
+        "img_path": "deepai_11_2_0_1.jpg",
+        "gt_score": 3.3776089744393674
+    },
+    {
+        "img_path": "deepai_11_2_1_0.jpg",
+        "gt_score": 2.7951294701403735
+    },
+    {
+        "img_path": "deepai_11_2_1_1.jpg",
+        "gt_score": 2.8348534309964015
+    },
+    {
+        "img_path": "deepai_11_3_0_0.jpg",
+        "gt_score": 2.8996768464705007
+    },
+    {
+        "img_path": "deepai_11_3_0_1.jpg",
+        "gt_score": 2.760250627477103
+    },
+    {
+        "img_path": "deepai_11_3_1_0.jpg",
+        "gt_score": 2.7046839219941945
+    },
+    {
+        "img_path": "deepai_11_3_1_1.jpg",
+        "gt_score": 2.3902356375530784
+    },
+    {
+        "img_path": "deepai_11_4_0_0.jpg",
+        "gt_score": 3.3117239245315573
+    },
+    {
+        "img_path": "deepai_11_4_0_1.jpg",
+        "gt_score": 3.0080665506376794
+    },
+    {
+        "img_path": "deepai_11_4_1_0.jpg",
+        "gt_score": 3.2665841714674584
+    },
+    {
+        "img_path": "deepai_11_4_1_1.jpg",
+        "gt_score": 2.7832106600456785
+    },
+    {
+        "img_path": "deepai_11_5_0_0.jpg",
+        "gt_score": 2.5874283321777996
+    },
+    {
+        "img_path": "deepai_11_5_0_1.jpg",
+        "gt_score": 2.701516697912102
+    },
+    {
+        "img_path": "deepai_11_5_1_0.jpg",
+        "gt_score": 2.5411916414304305
+    },
+    {
+        "img_path": "deepai_11_5_1_1.jpg",
+        "gt_score": 2.8300192032533995
+    },
+    {
+        "img_path": "deepai_11_6_0_0.jpg",
+        "gt_score": 3.3882119877783983
+    },
+    {
+        "img_path": "deepai_11_6_0_1.jpg",
+        "gt_score": 3.218236480605641
+    },
+    {
+        "img_path": "deepai_11_6_1_0.jpg",
+        "gt_score": 2.623047552200785
+    },
+    {
+        "img_path": "deepai_11_6_1_1.jpg",
+        "gt_score": 3.3641863325886576
+    },
+    {
+        "img_path": "deepai_11_7_0_0.jpg",
+        "gt_score": 2.8038145920287345
+    },
+    {
+        "img_path": "deepai_11_7_0_1.jpg",
+        "gt_score": 2.5815918423702957
+    },
+    {
+        "img_path": "deepai_11_7_1_0.jpg",
+        "gt_score": 3.2544703919355555
+    },
+    {
+        "img_path": "deepai_11_7_1_1.jpg",
+        "gt_score": 2.615957339424737
+    },
+    {
+        "img_path": "deepai_11_8_0_0.jpg",
+        "gt_score": 2.295039509040765
+    },
+    {
+        "img_path": "deepai_11_8_0_1.jpg",
+        "gt_score": 2.247585516224938
+    },
+    {
+        "img_path": "deepai_11_8_1_0.jpg",
+        "gt_score": 2.6974527656093503
+    },
+    {
+        "img_path": "deepai_11_8_1_1.jpg",
+        "gt_score": 2.35793184794063
+    },
+    {
+        "img_path": "deepai_11_9_0_0.jpg",
+        "gt_score": 2.085660383574618
+    },
+    {
+        "img_path": "deepai_11_9_0_1.jpg",
+        "gt_score": 3.2349403336715454
+    },
+    {
+        "img_path": "deepai_11_9_1_0.jpg",
+        "gt_score": 2.5717606596690676
+    },
+    {
+        "img_path": "deepai_11_9_1_1.jpg",
+        "gt_score": 3.620683704660568
+    },
+    {
+        "img_path": "deepai_2_0_0_0.jpg",
+        "gt_score": 3.1715159307126726
+    },
+    {
+        "img_path": "deepai_2_0_0_1.jpg",
+        "gt_score": 3.534867006840639
+    },
+    {
+        "img_path": "deepai_2_0_1_0.jpg",
+        "gt_score": 3.150398035141507
+    },
+    {
+        "img_path": "deepai_2_0_1_1.jpg",
+        "gt_score": 4.519808130937719
+    },
+    {
+        "img_path": "deepai_2_1_0_0.jpg",
+        "gt_score": 3.0778533852009686
+    },
+    {
+        "img_path": "deepai_2_1_0_1.jpg",
+        "gt_score": 2.98532295547847
+    },
+    {
+        "img_path": "deepai_2_1_1_0.jpg",
+        "gt_score": 3.3400793242720157
+    },
+    {
+        "img_path": "deepai_2_1_1_1.jpg",
+        "gt_score": 2.417517627366351
+    },
+    {
+        "img_path": "deepai_2_10_0_0.jpg",
+        "gt_score": 2.712378650704436
+    },
+    {
+        "img_path": "deepai_2_10_0_1.jpg",
+        "gt_score": 3.5702962339921034
+    },
+    {
+        "img_path": "deepai_2_10_1_0.jpg",
+        "gt_score": 3.6167664103162354
+    },
+    {
+        "img_path": "deepai_2_10_1_1.jpg",
+        "gt_score": 3.35709123663983
+    },
+    {
+        "img_path": "deepai_2_11_0_0.jpg",
+        "gt_score": 3.2012423726004897
+    },
+    {
+        "img_path": "deepai_2_11_0_1.jpg",
+        "gt_score": 3.141792994118258
+    },
+    {
+        "img_path": "deepai_2_11_1_0.jpg",
+        "gt_score": 2.0391760015741336
+    },
+    {
+        "img_path": "deepai_2_11_1_1.jpg",
+        "gt_score": 3.329703586941285
+    },
+    {
+        "img_path": "deepai_2_12_0_0.jpg",
+        "gt_score": 3.3311549929896285
+    },
+    {
+        "img_path": "deepai_2_12_0_1.jpg",
+        "gt_score": 2.8548089349473957
+    },
+    {
+        "img_path": "deepai_2_12_1_0.jpg",
+        "gt_score": 3.221897876998213
+    },
+    {
+        "img_path": "deepai_2_12_1_1.jpg",
+        "gt_score": 3.328766891308784
+    },
+    {
+        "img_path": "deepai_2_13_0_0.jpg",
+        "gt_score": 2.2326454254534998
+    },
+    {
+        "img_path": "deepai_2_13_0_1.jpg",
+        "gt_score": 3.0780809124944284
+    },
+    {
+        "img_path": "deepai_2_13_1_0.jpg",
+        "gt_score": 4.313771079854292
+    },
+    {
+        "img_path": "deepai_2_13_1_1.jpg",
+        "gt_score": 2.7778682663987047
+    },
+    {
+        "img_path": "deepai_2_14_0_0.jpg",
+        "gt_score": 3.9323133072759173
+    },
+    {
+        "img_path": "deepai_2_14_0_1.jpg",
+        "gt_score": 4.052053274936504
+    },
+    {
+        "img_path": "deepai_2_14_1_0.jpg",
+        "gt_score": 2.5571625022929743
+    },
+    {
+        "img_path": "deepai_2_14_1_1.jpg",
+        "gt_score": 3.1332438396968483
+    },
+    {
+        "img_path": "deepai_2_2_0_0.jpg",
+        "gt_score": 2.6140090791740356
+    },
+    {
+        "img_path": "deepai_2_2_0_1.jpg",
+        "gt_score": 2.650051945328929
+    },
+    {
+        "img_path": "deepai_2_2_1_0.jpg",
+        "gt_score": 2.4310396167734307
+    },
+    {
+        "img_path": "deepai_2_2_1_1.jpg",
+        "gt_score": 3.2491494662607407
+    },
+    {
+        "img_path": "deepai_2_3_0_0.jpg",
+        "gt_score": 3.1743896910941927
+    },
+    {
+        "img_path": "deepai_2_3_0_1.jpg",
+        "gt_score": 2.133697782526752
+    },
+    {
+        "img_path": "deepai_2_3_1_0.jpg",
+        "gt_score": 2.3741160748195163
+    },
+    {
+        "img_path": "deepai_2_3_1_1.jpg",
+        "gt_score": 2.878035072591181
+    },
+    {
+        "img_path": "deepai_2_4_0_0.jpg",
+        "gt_score": 2.90306015063537
+    },
+    {
+        "img_path": "deepai_2_4_0_1.jpg",
+        "gt_score": 2.8092106836451682
+    },
+    {
+        "img_path": "deepai_2_4_1_0.jpg",
+        "gt_score": 2.7943480530653164
+    },
+    {
+        "img_path": "deepai_2_4_1_1.jpg",
+        "gt_score": 2.2089578111476307
+    },
+    {
+        "img_path": "deepai_2_5_0_0.jpg",
+        "gt_score": 2.4387814663428653
+    },
+    {
+        "img_path": "deepai_2_5_0_1.jpg",
+        "gt_score": 2.518289011135215
+    },
+    {
+        "img_path": "deepai_2_5_1_0.jpg",
+        "gt_score": 3.0649874401673545
+    },
+    {
+        "img_path": "deepai_2_5_1_1.jpg",
+        "gt_score": 3.3827217451295697
+    },
+    {
+        "img_path": "deepai_2_6_0_0.jpg",
+        "gt_score": 2.7144557449747357
+    },
+    {
+        "img_path": "deepai_2_6_0_1.jpg",
+        "gt_score": 2.9599723065969545
+    },
+    {
+        "img_path": "deepai_2_6_1_0.jpg",
+        "gt_score": 2.5244585330863485
+    },
+    {
+        "img_path": "deepai_2_6_1_1.jpg",
+        "gt_score": 2.702185277255299
+    },
+    {
+        "img_path": "deepai_2_7_0_0.jpg",
+        "gt_score": 3.032213378682538
+    },
+    {
+        "img_path": "deepai_2_7_0_1.jpg",
+        "gt_score": 5.0
+    },
+    {
+        "img_path": "deepai_2_7_1_0.jpg",
+        "gt_score": 3.9578847517293654
+    },
+    {
+        "img_path": "deepai_2_7_1_1.jpg",
+        "gt_score": 2.6469766388237757
+    },
+    {
+        "img_path": "deepai_2_8_0_0.jpg",
+        "gt_score": 2.4559125936946278
+    },
+    {
+        "img_path": "deepai_2_8_0_1.jpg",
+        "gt_score": 2.705511841949165
+    },
+    {
+        "img_path": "deepai_2_8_1_0.jpg",
+        "gt_score": 3.939044940215048
+    },
+    {
+        "img_path": "deepai_2_8_1_1.jpg",
+        "gt_score": 3.9416982619273826
+    },
+    {
+        "img_path": "deepai_2_9_0_0.jpg",
+        "gt_score": 2.7464958381026396
+    },
+    {
+        "img_path": "deepai_2_9_0_1.jpg",
+        "gt_score": 2.664948543395123
+    },
+    {
+        "img_path": "deepai_2_9_1_0.jpg",
+        "gt_score": 2.86717999259351
+    },
+    {
+        "img_path": "deepai_2_9_1_1.jpg",
+        "gt_score": 3.1955616120699273
+    },
+    {
+        "img_path": "deepai_3_0_0_0.jpg",
+        "gt_score": 2.919743189587783
+    },
+    {
+        "img_path": "deepai_3_0_0_1.jpg",
+        "gt_score": 2.8943150800908404
+    },
+    {
+        "img_path": "deepai_3_0_1_0.jpg",
+        "gt_score": 2.827278635054044
+    },
+    {
+        "img_path": "deepai_3_0_1_1.jpg",
+        "gt_score": 4.192577548839857
+    },
+    {
+        "img_path": "deepai_3_1_0_0.jpg",
+        "gt_score": 3.455476224466176
+    },
+    {
+        "img_path": "deepai_3_1_0_1.jpg",
+        "gt_score": 2.513180164283358
+    },
+    {
+        "img_path": "deepai_3_1_1_0.jpg",
+        "gt_score": 3.3257967935455643
+    },
+    {
+        "img_path": "deepai_3_1_1_1.jpg",
+        "gt_score": 3.647869060983906
+    },
+    {
+        "img_path": "deepai_3_10_0_0.jpg",
+        "gt_score": 3.153887369590602
+    },
+    {
+        "img_path": "deepai_3_10_0_1.jpg",
+        "gt_score": 3.6856897573174736
+    },
+    {
+        "img_path": "deepai_3_10_1_0.jpg",
+        "gt_score": 3.147459159471324
+    },
+    {
+        "img_path": "deepai_3_10_1_1.jpg",
+        "gt_score": 3.4373668139493336
+    },
+    {
+        "img_path": "deepai_3_11_0_0.jpg",
+        "gt_score": 3.1521978900532677
+    },
+    {
+        "img_path": "deepai_3_11_0_1.jpg",
+        "gt_score": 3.6782272722375295
+    },
+    {
+        "img_path": "deepai_3_11_1_0.jpg",
+        "gt_score": 2.7283354119320564
+    },
+    {
+        "img_path": "deepai_3_11_1_1.jpg",
+        "gt_score": 2.312600598558171
+    },
+    {
+        "img_path": "deepai_3_12_0_0.jpg",
+        "gt_score": 3.2400675005287467
+    },
+    {
+        "img_path": "deepai_3_12_0_1.jpg",
+        "gt_score": 3.521792053953248
+    },
+    {
+        "img_path": "deepai_3_12_1_0.jpg",
+        "gt_score": 3.1473522445672217
+    },
+    {
+        "img_path": "deepai_3_12_1_1.jpg",
+        "gt_score": 4.414038643233229
+    },
+    {
+        "img_path": "deepai_3_13_0_0.jpg",
+        "gt_score": 2.8340985518520982
+    },
+    {
+        "img_path": "deepai_3_13_0_1.jpg",
+        "gt_score": 3.6245457009147017
+    },
+    {
+        "img_path": "deepai_3_13_1_0.jpg",
+        "gt_score": 2.7878529154537786
+    },
+    {
+        "img_path": "deepai_3_13_1_1.jpg",
+        "gt_score": 3.440372617111778
+    },
+    {
+        "img_path": "deepai_3_14_0_0.jpg",
+        "gt_score": 3.4781963848383683
+    },
+    {
+        "img_path": "deepai_3_14_0_1.jpg",
+        "gt_score": 4.060928389696384
+    },
+    {
+        "img_path": "deepai_3_14_1_0.jpg",
+        "gt_score": 2.3494490638267127
+    },
+    {
+        "img_path": "deepai_3_14_1_1.jpg",
+        "gt_score": 4.351910770338763
+    },
+    {
+        "img_path": "deepai_3_2_0_0.jpg",
+        "gt_score": 3.483868244117217
+    },
+    {
+        "img_path": "deepai_3_2_0_1.jpg",
+        "gt_score": 3.4304189780668803
+    },
+    {
+        "img_path": "deepai_3_2_1_0.jpg",
+        "gt_score": 3.4449300883902922
+    },
+    {
+        "img_path": "deepai_3_2_1_1.jpg",
+        "gt_score": 3.296101605501498
+    },
+    {
+        "img_path": "deepai_3_3_0_0.jpg",
+        "gt_score": 3.2407455079931053
+    },
+    {
+        "img_path": "deepai_3_3_0_1.jpg",
+        "gt_score": 2.7083957455288665
+    },
+    {
+        "img_path": "deepai_3_3_1_0.jpg",
+        "gt_score": 2.4827721801701412
+    },
+    {
+        "img_path": "deepai_3_3_1_1.jpg",
+        "gt_score": 3.173247492901318
+    },
+    {
+        "img_path": "deepai_3_4_0_0.jpg",
+        "gt_score": 3.1531033318420185
+    },
+    {
+        "img_path": "deepai_3_4_0_1.jpg",
+        "gt_score": 3.179692455079756
+    },
+    {
+        "img_path": "deepai_3_4_1_0.jpg",
+        "gt_score": 2.669750992284161
+    },
+    {
+        "img_path": "deepai_3_4_1_1.jpg",
+        "gt_score": 2.958521814636127
+    },
+    {
+        "img_path": "deepai_3_5_0_0.jpg",
+        "gt_score": 2.9228456878823565
+    },
+    {
+        "img_path": "deepai_3_5_0_1.jpg",
+        "gt_score": 3.372352774552071
+    },
+    {
+        "img_path": "deepai_3_5_1_0.jpg",
+        "gt_score": 3.660929480335993
+    },
+    {
+        "img_path": "deepai_3_5_1_1.jpg",
+        "gt_score": 2.7205041589939376
+    },
+    {
+        "img_path": "deepai_3_6_0_0.jpg",
+        "gt_score": 2.436990901760123
+    },
+    {
+        "img_path": "deepai_3_6_0_1.jpg",
+        "gt_score": 4.754489838164117
+    },
+    {
+        "img_path": "deepai_3_6_1_0.jpg",
+        "gt_score": 2.4106547428732665
+    },
+    {
+        "img_path": "deepai_3_6_1_1.jpg",
+        "gt_score": 2.6505689190917074
+    },
+    {
+        "img_path": "deepai_3_7_0_0.jpg",
+        "gt_score": 3.4967843201846933
+    },
+    {
+        "img_path": "deepai_3_7_0_1.jpg",
+        "gt_score": 3.690139862972389
+    },
+    {
+        "img_path": "deepai_3_7_1_0.jpg",
+        "gt_score": 2.9225624285983187
+    },
+    {
+        "img_path": "deepai_3_7_1_1.jpg",
+        "gt_score": 3.3580781689237837
+    },
+    {
+        "img_path": "deepai_3_8_0_0.jpg",
+        "gt_score": 3.919411533558691
+    },
+    {
+        "img_path": "deepai_3_8_0_1.jpg",
+        "gt_score": 3.3184416124470264
+    },
+    {
+        "img_path": "deepai_3_8_1_0.jpg",
+        "gt_score": 2.5571374061668664
+    },
+    {
+        "img_path": "deepai_3_8_1_1.jpg",
+        "gt_score": 2.8586809687821217
+    },
+    {
+        "img_path": "deepai_3_9_0_0.jpg",
+        "gt_score": 3.099126652298644
+    },
+    {
+        "img_path": "deepai_3_9_0_1.jpg",
+        "gt_score": 3.4484403336267757
+    },
+    {
+        "img_path": "deepai_3_9_1_0.jpg",
+        "gt_score": 2.4294659533919143
+    },
+    {
+        "img_path": "deepai_3_9_1_1.jpg",
+        "gt_score": 3.1368817695516897
+    },
+    {
+        "img_path": "deepai_4_0_0_0.jpg",
+        "gt_score": 3.247917211264355
+    },
+    {
+        "img_path": "deepai_4_0_0_1.jpg",
+        "gt_score": 3.6349237949852764
+    },
+    {
+        "img_path": "deepai_4_0_1_0.jpg",
+        "gt_score": 3.1749057503456144
+    },
+    {
+        "img_path": "deepai_4_0_1_1.jpg",
+        "gt_score": 2.3143855943587535
+    },
+    {
+        "img_path": "deepai_4_1_0_0.jpg",
+        "gt_score": 3.032433383027502
+    },
+    {
+        "img_path": "deepai_4_1_0_1.jpg",
+        "gt_score": 3.6067613366488147
+    },
+    {
+        "img_path": "deepai_4_1_1_0.jpg",
+        "gt_score": 2.9030425457070446
+    },
+    {
+        "img_path": "deepai_4_1_1_1.jpg",
+        "gt_score": 2.7867812116887616
+    },
+    {
+        "img_path": "deepai_4_10_0_0.jpg",
+        "gt_score": 2.9168619996506737
+    },
+    {
+        "img_path": "deepai_4_10_0_1.jpg",
+        "gt_score": 2.2139913542657252
+    },
+    {
+        "img_path": "deepai_4_10_1_0.jpg",
+        "gt_score": 2.5327066560356126
+    },
+    {
+        "img_path": "deepai_4_10_1_1.jpg",
+        "gt_score": 1.9139480863623681
+    },
+    {
+        "img_path": "deepai_4_11_0_0.jpg",
+        "gt_score": 2.8406726437345307
+    },
+    {
+        "img_path": "deepai_4_11_0_1.jpg",
+        "gt_score": 2.8039145280967444
+    },
+    {
+        "img_path": "deepai_4_11_1_0.jpg",
+        "gt_score": 2.8286610631937332
+    },
+    {
+        "img_path": "deepai_4_11_1_1.jpg",
+        "gt_score": 1.9409010000449114
+    },
+    {
+        "img_path": "deepai_4_12_0_0.jpg",
+        "gt_score": 3.3377868448958505
+    },
+    {
+        "img_path": "deepai_4_12_0_1.jpg",
+        "gt_score": 2.5743470987122197
+    },
+    {
+        "img_path": "deepai_4_12_1_0.jpg",
+        "gt_score": 4.103205410620863
+    },
+    {
+        "img_path": "deepai_4_12_1_1.jpg",
+        "gt_score": 2.371355342660504
+    },
+    {
+        "img_path": "deepai_4_13_0_0.jpg",
+        "gt_score": 3.3530907265359358
+    },
+    {
+        "img_path": "deepai_4_13_0_1.jpg",
+        "gt_score": 2.6813799664083926
+    },
+    {
+        "img_path": "deepai_4_13_1_0.jpg",
+        "gt_score": 3.1261969822577425
+    },
+    {
+        "img_path": "deepai_4_13_1_1.jpg",
+        "gt_score": 2.0003658265738027
+    },
+    {
+        "img_path": "deepai_4_14_0_0.jpg",
+        "gt_score": 2.571837624741921
+    },
+    {
+        "img_path": "deepai_4_14_0_1.jpg",
+        "gt_score": 2.9270372114105587
+    },
+    {
+        "img_path": "deepai_4_14_1_0.jpg",
+        "gt_score": 2.7982107965710252
+    },
+    {
+        "img_path": "deepai_4_14_1_1.jpg",
+        "gt_score": 1.665117755668704
+    },
+    {
+        "img_path": "deepai_4_2_0_0.jpg",
+        "gt_score": 2.830464317357466
+    },
+    {
+        "img_path": "deepai_4_2_0_1.jpg",
+        "gt_score": 3.0183763198105837
+    },
+    {
+        "img_path": "deepai_4_2_1_0.jpg",
+        "gt_score": 2.4129421490098455
+    },
+    {
+        "img_path": "deepai_4_2_1_1.jpg",
+        "gt_score": 3.1789999454069684
+    },
+    {
+        "img_path": "deepai_4_3_0_0.jpg",
+        "gt_score": 2.790856529983844
+    },
+    {
+        "img_path": "deepai_4_3_0_1.jpg",
+        "gt_score": 2.4424082096397144
+    },
+    {
+        "img_path": "deepai_4_3_1_0.jpg",
+        "gt_score": 2.739741729287086
+    },
+    {
+        "img_path": "deepai_4_3_1_1.jpg",
+        "gt_score": 2.8782294852674615
+    },
+    {
+        "img_path": "deepai_4_4_0_0.jpg",
+        "gt_score": 3.0102820653648323
+    },
+    {
+        "img_path": "deepai_4_4_0_1.jpg",
+        "gt_score": 2.4169909293741743
+    },
+    {
+        "img_path": "deepai_4_4_1_0.jpg",
+        "gt_score": 2.890524881853224
+    },
+    {
+        "img_path": "deepai_4_4_1_1.jpg",
+        "gt_score": 2.152638679510321
+    },
+    {
+        "img_path": "deepai_4_5_0_0.jpg",
+        "gt_score": 2.6916339423723654
+    },
+    {
+        "img_path": "deepai_4_5_0_1.jpg",
+        "gt_score": 2.633650069997241
+    },
+    {
+        "img_path": "deepai_4_5_1_0.jpg",
+        "gt_score": 2.1595991437554125
+    },
+    {
+        "img_path": "deepai_4_5_1_1.jpg",
+        "gt_score": 2.584904263030004
+    },
+    {
+        "img_path": "deepai_4_6_0_0.jpg",
+        "gt_score": 2.927458700660802
+    },
+    {
+        "img_path": "deepai_4_6_0_1.jpg",
+        "gt_score": 2.32517680143807
+    },
+    {
+        "img_path": "deepai_4_6_1_0.jpg",
+        "gt_score": 3.2181379863422763
+    },
+    {
+        "img_path": "deepai_4_6_1_1.jpg",
+        "gt_score": 2.4532749717379523
+    },
+    {
+        "img_path": "deepai_4_7_0_0.jpg",
+        "gt_score": 3.0397515252466745
+    },
+    {
+        "img_path": "deepai_4_7_0_1.jpg",
+        "gt_score": 2.1468655058602453
+    },
+    {
+        "img_path": "deepai_4_7_1_0.jpg",
+        "gt_score": 2.7128678759168667
+    },
+    {
+        "img_path": "deepai_4_7_1_1.jpg",
+        "gt_score": 2.4856930614108554
+    },
+    {
+        "img_path": "deepai_4_8_0_0.jpg",
+        "gt_score": 2.304563640344349
+    },
+    {
+        "img_path": "deepai_4_8_0_1.jpg",
+        "gt_score": 2.124997707710464
+    },
+    {
+        "img_path": "deepai_4_8_1_0.jpg",
+        "gt_score": 2.699969762528146
+    },
+    {
+        "img_path": "deepai_4_8_1_1.jpg",
+        "gt_score": 1.5806964716776903
+    },
+    {
+        "img_path": "deepai_4_9_0_0.jpg",
+        "gt_score": 2.944792510888916
+    },
+    {
+        "img_path": "deepai_4_9_0_1.jpg",
+        "gt_score": 3.07134951402134
+    },
+    {
+        "img_path": "deepai_4_9_1_0.jpg",
+        "gt_score": 2.029141473194196
+    },
+    {
+        "img_path": "deepai_4_9_1_1.jpg",
+        "gt_score": 2.7427699149330462
+    },
+    {
+        "img_path": "deepai_5_0_0_0.jpg",
+        "gt_score": 2.8637052215711987
+    },
+    {
+        "img_path": "deepai_5_0_0_1.jpg",
+        "gt_score": 2.6715714622989166
+    },
+    {
+        "img_path": "deepai_5_0_1_0.jpg",
+        "gt_score": 2.376584708508811
+    },
+    {
+        "img_path": "deepai_5_0_1_1.jpg",
+        "gt_score": 2.4272653299504947
+    },
+    {
+        "img_path": "deepai_5_1_0_0.jpg",
+        "gt_score": 2.8214275150373394
+    },
+    {
+        "img_path": "deepai_5_1_0_1.jpg",
+        "gt_score": 2.9238000496615357
+    },
+    {
+        "img_path": "deepai_5_1_1_0.jpg",
+        "gt_score": 2.096095680484215
+    },
+    {
+        "img_path": "deepai_5_1_1_1.jpg",
+        "gt_score": 2.210641460826271
+    },
+    {
+        "img_path": "deepai_5_10_0_0.jpg",
+        "gt_score": 3.0850241295616243
+    },
+    {
+        "img_path": "deepai_5_10_0_1.jpg",
+        "gt_score": 2.702805598986583
+    },
+    {
+        "img_path": "deepai_5_10_1_0.jpg",
+        "gt_score": 2.6609281037976142
+    },
+    {
+        "img_path": "deepai_5_10_1_1.jpg",
+        "gt_score": 2.939346813672673
+    },
+    {
+        "img_path": "deepai_5_11_0_0.jpg",
+        "gt_score": 3.3009815762243164
+    },
+    {
+        "img_path": "deepai_5_11_0_1.jpg",
+        "gt_score": 2.0755960114048624
+    },
+    {
+        "img_path": "deepai_5_11_1_0.jpg",
+        "gt_score": 2.7722570413854064
+    },
+    {
+        "img_path": "deepai_5_11_1_1.jpg",
+        "gt_score": 3.0075847554046784
+    },
+    {
+        "img_path": "deepai_5_12_0_0.jpg",
+        "gt_score": 3.1210874203288657
+    },
+    {
+        "img_path": "deepai_5_12_0_1.jpg",
+        "gt_score": 3.4384464428125145
+    },
+    {
+        "img_path": "deepai_5_12_1_0.jpg",
+        "gt_score": 3.617908219007967
+    },
+    {
+        "img_path": "deepai_5_12_1_1.jpg",
+        "gt_score": 2.4277656450470193
+    },
+    {
+        "img_path": "deepai_5_13_0_0.jpg",
+        "gt_score": 2.808647039742693
+    },
+    {
+        "img_path": "deepai_5_13_0_1.jpg",
+        "gt_score": 3.2935229859389197
+    },
+    {
+        "img_path": "deepai_5_13_1_0.jpg",
+        "gt_score": 3.828755210178215
+    },
+    {
+        "img_path": "deepai_5_13_1_1.jpg",
+        "gt_score": 2.3840930108592877
+    },
+    {
+        "img_path": "deepai_5_14_0_0.jpg",
+        "gt_score": 1.9586835973541197
+    },
+    {
+        "img_path": "deepai_5_14_0_1.jpg",
+        "gt_score": 2.4323978628745277
+    },
+    {
+        "img_path": "deepai_5_14_1_0.jpg",
+        "gt_score": 3.4433290659595723
+    },
+    {
+        "img_path": "deepai_5_14_1_1.jpg",
+        "gt_score": 1.4454728048782346
+    },
+    {
+        "img_path": "deepai_5_2_0_0.jpg",
+        "gt_score": 2.839028128598567
+    },
+    {
+        "img_path": "deepai_5_2_0_1.jpg",
+        "gt_score": 2.5444605077427016
+    },
+    {
+        "img_path": "deepai_5_2_1_0.jpg",
+        "gt_score": 2.9602459472691836
+    },
+    {
+        "img_path": "deepai_5_2_1_1.jpg",
+        "gt_score": 2.1679939345545765
+    },
+    {
+        "img_path": "deepai_5_3_0_0.jpg",
+        "gt_score": 3.0669059854766916
+    },
+    {
+        "img_path": "deepai_5_3_0_1.jpg",
+        "gt_score": 2.186953846520402
+    },
+    {
+        "img_path": "deepai_5_3_1_0.jpg",
+        "gt_score": 2.62691085246742
+    },
+    {
+        "img_path": "deepai_5_3_1_1.jpg",
+        "gt_score": 2.931455705471293
+    },
+    {
+        "img_path": "deepai_5_4_0_0.jpg",
+        "gt_score": 3.479657515539952
+    },
+    {
+        "img_path": "deepai_5_4_0_1.jpg",
+        "gt_score": 3.2421697226758694
+    },
+    {
+        "img_path": "deepai_5_4_1_0.jpg",
+        "gt_score": 2.9986984447192735
+    },
+    {
+        "img_path": "deepai_5_4_1_1.jpg",
+        "gt_score": 2.6705270432923864
+    },
+    {
+        "img_path": "deepai_5_5_0_0.jpg",
+        "gt_score": 2.7762166178153884
+    },
+    {
+        "img_path": "deepai_5_5_0_1.jpg",
+        "gt_score": 2.359354758610893
+    },
+    {
+        "img_path": "deepai_5_5_1_0.jpg",
+        "gt_score": 2.796797314021924
+    },
+    {
+        "img_path": "deepai_5_5_1_1.jpg",
+        "gt_score": 2.691815559426226
+    },
+    {
+        "img_path": "deepai_5_6_0_0.jpg",
+        "gt_score": 2.25121159671943
+    },
+    {
+        "img_path": "deepai_5_6_0_1.jpg",
+        "gt_score": 2.2553757294477146
+    },
+    {
+        "img_path": "deepai_5_6_1_0.jpg",
+        "gt_score": 2.100385637057428
+    },
+    {
+        "img_path": "deepai_5_6_1_1.jpg",
+        "gt_score": 2.2285790401608465
+    },
+    {
+        "img_path": "deepai_5_7_0_0.jpg",
+        "gt_score": 2.469420483466785
+    },
+    {
+        "img_path": "deepai_5_7_0_1.jpg",
+        "gt_score": 2.530504233462958
+    },
+    {
+        "img_path": "deepai_5_7_1_0.jpg",
+        "gt_score": 3.2637903246912674
+    },
+    {
+        "img_path": "deepai_5_7_1_1.jpg",
+        "gt_score": 4.042653167922772
+    },
+    {
+        "img_path": "deepai_5_8_0_0.jpg",
+        "gt_score": 3.5642428434072144
+    },
+    {
+        "img_path": "deepai_5_8_0_1.jpg",
+        "gt_score": 2.6051339644141542
+    },
+    {
+        "img_path": "deepai_5_8_1_0.jpg",
+        "gt_score": 2.7266301270214743
+    },
+    {
+        "img_path": "deepai_5_8_1_1.jpg",
+        "gt_score": 1.9426322661253197
+    },
+    {
+        "img_path": "deepai_5_9_0_0.jpg",
+        "gt_score": 2.6522223672300993
+    },
+    {
+        "img_path": "deepai_5_9_0_1.jpg",
+        "gt_score": 2.743026896939021
+    },
+    {
+        "img_path": "deepai_5_9_1_0.jpg",
+        "gt_score": 1.9307218322721267
+    },
+    {
+        "img_path": "deepai_5_9_1_1.jpg",
+        "gt_score": 3.066778004750098
+    },
+    {
+        "img_path": "deepai_6_0_0_0.jpg",
+        "gt_score": 2.6949406392148116
+    },
+    {
+        "img_path": "deepai_6_0_0_1.jpg",
+        "gt_score": 4.326972474989733
+    },
+    {
+        "img_path": "deepai_6_0_1_0.jpg",
+        "gt_score": 2.6174746210856816
+    },
+    {
+        "img_path": "deepai_6_0_1_1.jpg",
+        "gt_score": 3.7681219403529407
+    },
+    {
+        "img_path": "deepai_6_1_0_0.jpg",
+        "gt_score": 2.6737273207733048
+    },
+    {
+        "img_path": "deepai_6_1_0_1.jpg",
+        "gt_score": 2.5615708527316863
+    },
+    {
+        "img_path": "deepai_6_1_1_0.jpg",
+        "gt_score": 2.7658658089271424
+    },
+    {
+        "img_path": "deepai_6_1_1_1.jpg",
+        "gt_score": 3.3618005867999745
+    },
+    {
+        "img_path": "deepai_6_10_0_0.jpg",
+        "gt_score": 2.8350884200200053
+    },
+    {
+        "img_path": "deepai_6_10_0_1.jpg",
+        "gt_score": 2.9311542844980027
+    },
+    {
+        "img_path": "deepai_6_10_1_0.jpg",
+        "gt_score": 2.3530673252644716
+    },
+    {
+        "img_path": "deepai_6_10_1_1.jpg",
+        "gt_score": 2.9951740676733123
+    },
+    {
+        "img_path": "deepai_6_11_0_0.jpg",
+        "gt_score": 2.707922326113526
+    },
+    {
+        "img_path": "deepai_6_11_0_1.jpg",
+        "gt_score": 3.8882798919703663
+    },
+    {
+        "img_path": "deepai_6_11_1_0.jpg",
+        "gt_score": 3.328843498631207
+    },
+    {
+        "img_path": "deepai_6_11_1_1.jpg",
+        "gt_score": 3.352088947365486
+    },
+    {
+        "img_path": "deepai_6_12_0_0.jpg",
+        "gt_score": 2.8035439611073336
+    },
+    {
+        "img_path": "deepai_6_12_0_1.jpg",
+        "gt_score": 3.345186928329724
+    },
+    {
+        "img_path": "deepai_6_12_1_0.jpg",
+        "gt_score": 2.688305220796834
+    },
+    {
+        "img_path": "deepai_6_12_1_1.jpg",
+        "gt_score": 3.430942170765654
+    },
+    {
+        "img_path": "deepai_6_13_0_0.jpg",
+        "gt_score": 3.4377702344793915
+    },
+    {
+        "img_path": "deepai_6_13_0_1.jpg",
+        "gt_score": 3.118111660390578
+    },
+    {
+        "img_path": "deepai_6_13_1_0.jpg",
+        "gt_score": 2.9403292201104363
+    },
+    {
+        "img_path": "deepai_6_13_1_1.jpg",
+        "gt_score": 3.3524743734660736
+    },
+    {
+        "img_path": "deepai_6_14_0_0.jpg",
+        "gt_score": 2.8634360007037305
+    },
+    {
+        "img_path": "deepai_6_14_0_1.jpg",
+        "gt_score": 2.848633287029334
+    },
+    {
+        "img_path": "deepai_6_14_1_0.jpg",
+        "gt_score": 2.0339964090092595
+    },
+    {
+        "img_path": "deepai_6_14_1_1.jpg",
+        "gt_score": 2.6725782497857673
+    },
+    {
+        "img_path": "deepai_6_2_0_0.jpg",
+        "gt_score": 2.9564495296717315
+    },
+    {
+        "img_path": "deepai_6_2_0_1.jpg",
+        "gt_score": 2.202310710629086
+    },
+    {
+        "img_path": "deepai_6_2_1_0.jpg",
+        "gt_score": 2.6684869266830984
+    },
+    {
+        "img_path": "deepai_6_2_1_1.jpg",
+        "gt_score": 3.061975913187648
+    },
+    {
+        "img_path": "deepai_6_3_0_0.jpg",
+        "gt_score": 3.278519640228407
+    },
+    {
+        "img_path": "deepai_6_3_0_1.jpg",
+        "gt_score": 3.1373203686115247
+    },
+    {
+        "img_path": "deepai_6_3_1_0.jpg",
+        "gt_score": 2.98772948362993
+    },
+    {
+        "img_path": "deepai_6_3_1_1.jpg",
+        "gt_score": 2.910139440787106
+    },
+    {
+        "img_path": "deepai_6_4_0_0.jpg",
+        "gt_score": 2.9100536977469265
+    },
+    {
+        "img_path": "deepai_6_4_0_1.jpg",
+        "gt_score": 2.9716596941798015
+    },
+    {
+        "img_path": "deepai_6_4_1_0.jpg",
+        "gt_score": 2.657339390465279
+    },
+    {
+        "img_path": "deepai_6_4_1_1.jpg",
+        "gt_score": 3.467604863109257
+    },
+    {
+        "img_path": "deepai_6_5_0_0.jpg",
+        "gt_score": 3.4710013528215318
+    },
+    {
+        "img_path": "deepai_6_5_0_1.jpg",
+        "gt_score": 2.970895029163906
+    },
+    {
+        "img_path": "deepai_6_5_1_0.jpg",
+        "gt_score": 2.681324827058128
+    },
+    {
+        "img_path": "deepai_6_5_1_1.jpg",
+        "gt_score": 4.287478073165207
+    },
+    {
+        "img_path": "deepai_6_6_0_0.jpg",
+        "gt_score": 3.24862296727906
+    },
+    {
+        "img_path": "deepai_6_6_0_1.jpg",
+        "gt_score": 3.6595850821608185
+    },
+    {
+        "img_path": "deepai_6_6_1_0.jpg",
+        "gt_score": 2.83480018417028
+    },
+    {
+        "img_path": "deepai_6_6_1_1.jpg",
+        "gt_score": 3.3168129031081524
+    },
+    {
+        "img_path": "deepai_6_7_0_0.jpg",
+        "gt_score": 2.5312561640747853
+    },
+    {
+        "img_path": "deepai_6_7_0_1.jpg",
+        "gt_score": 3.035827126922629
+    },
+    {
+        "img_path": "deepai_6_7_1_0.jpg",
+        "gt_score": 2.620956915056489
+    },
+    {
+        "img_path": "deepai_6_7_1_1.jpg",
+        "gt_score": 2.103653199357197
+    },
+    {
+        "img_path": "deepai_6_8_0_0.jpg",
+        "gt_score": 2.133249397595325
+    },
+    {
+        "img_path": "deepai_6_8_0_1.jpg",
+        "gt_score": 2.6580517231664094
+    },
+    {
+        "img_path": "deepai_6_8_1_0.jpg",
+        "gt_score": 2.9945510322994364
+    },
+    {
+        "img_path": "deepai_6_8_1_1.jpg",
+        "gt_score": 2.1383547387299378
+    },
+    {
+        "img_path": "deepai_6_9_0_0.jpg",
+        "gt_score": 2.985256986896803
+    },
+    {
+        "img_path": "deepai_6_9_0_1.jpg",
+        "gt_score": 2.932392400679953
+    },
+    {
+        "img_path": "deepai_6_9_1_0.jpg",
+        "gt_score": 2.719041260911834
+    },
+    {
+        "img_path": "deepai_6_9_1_1.jpg",
+        "gt_score": 3.0800038776085255
+    },
+    {
+        "img_path": "deepai_7_0_0_0.jpg",
+        "gt_score": 2.9878697032180175
+    },
+    {
+        "img_path": "deepai_7_0_0_1.jpg",
+        "gt_score": 4.7996387232411415
+    },
+    {
+        "img_path": "deepai_7_0_1_0.jpg",
+        "gt_score": 3.261752471005074
+    },
+    {
+        "img_path": "deepai_7_0_1_1.jpg",
+        "gt_score": 3.0561182836907785
+    },
+    {
+        "img_path": "deepai_7_1_0_0.jpg",
+        "gt_score": 2.39732546040414
+    },
+    {
+        "img_path": "deepai_7_1_0_1.jpg",
+        "gt_score": 3.42788974186275
+    },
+    {
+        "img_path": "deepai_7_1_1_0.jpg",
+        "gt_score": 3.2629218605635284
+    },
+    {
+        "img_path": "deepai_7_1_1_1.jpg",
+        "gt_score": 2.847384669474931
+    },
+    {
+        "img_path": "deepai_7_10_0_0.jpg",
+        "gt_score": 2.490568222827769
+    },
+    {
+        "img_path": "deepai_7_10_0_1.jpg",
+        "gt_score": 3.6514819563548326
+    },
+    {
+        "img_path": "deepai_7_10_1_0.jpg",
+        "gt_score": 2.6193338678926845
+    },
+    {
+        "img_path": "deepai_7_10_1_1.jpg",
+        "gt_score": 2.6811560060505295
+    },
+    {
+        "img_path": "deepai_7_11_0_0.jpg",
+        "gt_score": 2.9566369761604423
+    },
+    {
+        "img_path": "deepai_7_11_0_1.jpg",
+        "gt_score": 3.373352039090426
+    },
+    {
+        "img_path": "deepai_7_11_1_0.jpg",
+        "gt_score": 2.1698694822774027
+    },
+    {
+        "img_path": "deepai_7_11_1_1.jpg",
+        "gt_score": 2.690271739834527
+    },
+    {
+        "img_path": "deepai_7_12_0_0.jpg",
+        "gt_score": 3.2553573755029763
+    },
+    {
+        "img_path": "deepai_7_12_0_1.jpg",
+        "gt_score": 3.010083590210381
+    },
+    {
+        "img_path": "deepai_7_12_1_0.jpg",
+        "gt_score": 3.661717474097475
+    },
+    {
+        "img_path": "deepai_7_12_1_1.jpg",
+        "gt_score": 3.1058702896332253
+    },
+    {
+        "img_path": "deepai_7_13_0_0.jpg",
+        "gt_score": 2.627433488405267
+    },
+    {
+        "img_path": "deepai_7_13_0_1.jpg",
+        "gt_score": 4.607223336556273
+    },
+    {
+        "img_path": "deepai_7_13_1_0.jpg",
+        "gt_score": 3.1207684261779645
+    },
+    {
+        "img_path": "deepai_7_13_1_1.jpg",
+        "gt_score": 3.185411403467083
+    },
+    {
+        "img_path": "deepai_7_14_0_0.jpg",
+        "gt_score": 3.0101425926044785
+    },
+    {
+        "img_path": "deepai_7_14_0_1.jpg",
+        "gt_score": 4.26029501151568
+    },
+    {
+        "img_path": "deepai_7_14_1_0.jpg",
+        "gt_score": 3.5880527440900547
+    },
+    {
+        "img_path": "deepai_7_14_1_1.jpg",
+        "gt_score": 3.325960058419524
+    },
+    {
+        "img_path": "deepai_7_2_0_0.jpg",
+        "gt_score": 3.2485555890673017
+    },
+    {
+        "img_path": "deepai_7_2_0_1.jpg",
+        "gt_score": 2.572057629086884
+    },
+    {
+        "img_path": "deepai_7_2_1_0.jpg",
+        "gt_score": 2.4572562767927835
+    },
+    {
+        "img_path": "deepai_7_2_1_1.jpg",
+        "gt_score": 3.3488478296035633
+    },
+    {
+        "img_path": "deepai_7_3_0_0.jpg",
+        "gt_score": 2.618073011476788
+    },
+    {
+        "img_path": "deepai_7_3_0_1.jpg",
+        "gt_score": 3.112203730316986
+    },
+    {
+        "img_path": "deepai_7_3_1_0.jpg",
+        "gt_score": 2.359499101895504
+    },
+    {
+        "img_path": "deepai_7_3_1_1.jpg",
+        "gt_score": 3.7992165426380593
+    },
+    {
+        "img_path": "deepai_7_4_0_0.jpg",
+        "gt_score": 3.262183640085479
+    },
+    {
+        "img_path": "deepai_7_4_0_1.jpg",
+        "gt_score": 3.1616143596250157
+    },
+    {
+        "img_path": "deepai_7_4_1_0.jpg",
+        "gt_score": 2.8713194799151838
+    },
+    {
+        "img_path": "deepai_7_4_1_1.jpg",
+        "gt_score": 3.0305187007619967
+    },
+    {
+        "img_path": "deepai_7_5_0_0.jpg",
+        "gt_score": 3.0258713627467797
+    },
+    {
+        "img_path": "deepai_7_5_0_1.jpg",
+        "gt_score": 4.04436456615176
+    },
+    {
+        "img_path": "deepai_7_5_1_0.jpg",
+        "gt_score": 2.5239471897479238
+    },
+    {
+        "img_path": "deepai_7_5_1_1.jpg",
+        "gt_score": 2.4681996144627303
+    },
+    {
+        "img_path": "deepai_7_6_0_0.jpg",
+        "gt_score": 3.2472977424022345
+    },
+    {
+        "img_path": "deepai_7_6_0_1.jpg",
+        "gt_score": 1.855141862814434
+    },
+    {
+        "img_path": "deepai_7_6_1_0.jpg",
+        "gt_score": 3.114000050467705
+    },
+    {
+        "img_path": "deepai_7_6_1_1.jpg",
+        "gt_score": 3.328557915205721
+    },
+    {
+        "img_path": "deepai_7_7_0_0.jpg",
+        "gt_score": 2.8817534728122784
+    },
+    {
+        "img_path": "deepai_7_7_0_1.jpg",
+        "gt_score": 3.205538052990965
+    },
+    {
+        "img_path": "deepai_7_7_1_0.jpg",
+        "gt_score": 3.054931382173066
+    },
+    {
+        "img_path": "deepai_7_7_1_1.jpg",
+        "gt_score": 2.7754014934828386
+    },
+    {
+        "img_path": "deepai_7_8_0_0.jpg",
+        "gt_score": 1.6415765798869169
+    },
+    {
+        "img_path": "deepai_7_8_0_1.jpg",
+        "gt_score": 2.0000551764898473
+    },
+    {
+        "img_path": "deepai_7_8_1_0.jpg",
+        "gt_score": 2.143885326117197
+    },
+    {
+        "img_path": "deepai_7_8_1_1.jpg",
+        "gt_score": 2.8004247723957927
+    },
+    {
+        "img_path": "deepai_7_9_0_0.jpg",
+        "gt_score": 3.30650558692515
+    },
+    {
+        "img_path": "deepai_7_9_0_1.jpg",
+        "gt_score": 3.1069520436273574
+    },
+    {
+        "img_path": "deepai_7_9_1_0.jpg",
+        "gt_score": 3.119349020801104
+    },
+    {
+        "img_path": "deepai_7_9_1_1.jpg",
+        "gt_score": 3.8983886717805647
+    },
+    {
+        "img_path": "deepai_8_0_0_0.jpg",
+        "gt_score": 2.9883708711837063
+    },
+    {
+        "img_path": "deepai_8_0_0_1.jpg",
+        "gt_score": 3.747633299515488
+    },
+    {
+        "img_path": "deepai_8_0_1_0.jpg",
+        "gt_score": 2.3292625590395697
+    },
+    {
+        "img_path": "deepai_8_0_1_1.jpg",
+        "gt_score": 3.986808698071111
+    },
+    {
+        "img_path": "deepai_8_1_0_0.jpg",
+        "gt_score": 3.0118482670162052
+    },
+    {
+        "img_path": "deepai_8_1_0_1.jpg",
+        "gt_score": 3.8742091798380245
+    },
+    {
+        "img_path": "deepai_8_1_1_0.jpg",
+        "gt_score": 2.634430540810227
+    },
+    {
+        "img_path": "deepai_8_1_1_1.jpg",
+        "gt_score": 2.9199152814227416
+    },
+    {
+        "img_path": "deepai_8_10_0_0.jpg",
+        "gt_score": 2.5223581100704613
+    },
+    {
+        "img_path": "deepai_8_10_0_1.jpg",
+        "gt_score": 3.314756034439703
+    },
+    {
+        "img_path": "deepai_8_10_1_0.jpg",
+        "gt_score": 2.5515148563795904
+    },
+    {
+        "img_path": "deepai_8_10_1_1.jpg",
+        "gt_score": 2.817816219787151
+    },
+    {
+        "img_path": "deepai_8_11_0_0.jpg",
+        "gt_score": 2.344689254773755
+    },
+    {
+        "img_path": "deepai_8_11_0_1.jpg",
+        "gt_score": 3.0837959366195693
+    },
+    {
+        "img_path": "deepai_8_11_1_0.jpg",
+        "gt_score": 2.458275956999795
+    },
+    {
+        "img_path": "deepai_8_11_1_1.jpg",
+        "gt_score": 2.9776430863032477
+    },
+    {
+        "img_path": "deepai_8_12_0_0.jpg",
+        "gt_score": 2.860603933896219
+    },
+    {
+        "img_path": "deepai_8_12_0_1.jpg",
+        "gt_score": 3.2491094788488994
+    },
+    {
+        "img_path": "deepai_8_12_1_0.jpg",
+        "gt_score": 2.9811516575521186
+    },
+    {
+        "img_path": "deepai_8_12_1_1.jpg",
+        "gt_score": 3.3638291184064357
+    },
+    {
+        "img_path": "deepai_8_13_0_0.jpg",
+        "gt_score": 2.3891942899395704
+    },
+    {
+        "img_path": "deepai_8_13_0_1.jpg",
+        "gt_score": 2.5873421379942814
+    },
+    {
+        "img_path": "deepai_8_13_1_0.jpg",
+        "gt_score": 2.9425245092357386
+    },
+    {
+        "img_path": "deepai_8_13_1_1.jpg",
+        "gt_score": 3.7561460946790066
+    },
+    {
+        "img_path": "deepai_8_14_0_0.jpg",
+        "gt_score": 3.1840137267150723
+    },
+    {
+        "img_path": "deepai_8_14_0_1.jpg",
+        "gt_score": 3.327116652355558
+    },
+    {
+        "img_path": "deepai_8_14_1_0.jpg",
+        "gt_score": 2.576886120364101
+    },
+    {
+        "img_path": "deepai_8_14_1_1.jpg",
+        "gt_score": 3.2213624132633907
+    },
+    {
+        "img_path": "deepai_8_2_0_0.jpg",
+        "gt_score": 2.7669542773998432
+    },
+    {
+        "img_path": "deepai_8_2_0_1.jpg",
+        "gt_score": 2.810297384737349
+    },
+    {
+        "img_path": "deepai_8_2_1_0.jpg",
+        "gt_score": 2.609954932742875
+    },
+    {
+        "img_path": "deepai_8_2_1_1.jpg",
+        "gt_score": 2.6559276752966983
+    },
+    {
+        "img_path": "deepai_8_3_0_0.jpg",
+        "gt_score": 3.100074238380901
+    },
+    {
+        "img_path": "deepai_8_3_0_1.jpg",
+        "gt_score": 1.9244608434635508
+    },
+    {
+        "img_path": "deepai_8_3_1_0.jpg",
+        "gt_score": 2.8644500187356736
+    },
+    {
+        "img_path": "deepai_8_3_1_1.jpg",
+        "gt_score": 2.7342045652134015
+    },
+    {
+        "img_path": "deepai_8_4_0_0.jpg",
+        "gt_score": 3.6523143573329153
+    },
+    {
+        "img_path": "deepai_8_4_0_1.jpg",
+        "gt_score": 2.597195796571933
+    },
+    {
+        "img_path": "deepai_8_4_1_0.jpg",
+        "gt_score": 3.2228719076183157
+    },
+    {
+        "img_path": "deepai_8_4_1_1.jpg",
+        "gt_score": 2.608129096661288
+    },
+    {
+        "img_path": "deepai_8_5_0_0.jpg",
+        "gt_score": 3.1219857898886163
+    },
+    {
+        "img_path": "deepai_8_5_0_1.jpg",
+        "gt_score": 3.088725123864893
+    },
+    {
+        "img_path": "deepai_8_5_1_0.jpg",
+        "gt_score": 2.447115982486144
+    },
+    {
+        "img_path": "deepai_8_5_1_1.jpg",
+        "gt_score": 3.297129629775455
+    },
+    {
+        "img_path": "deepai_8_6_0_0.jpg",
+        "gt_score": 2.840670548071218
+    },
+    {
+        "img_path": "deepai_8_6_0_1.jpg",
+        "gt_score": 2.3514024911337494
+    },
+    {
+        "img_path": "deepai_8_6_1_0.jpg",
+        "gt_score": 3.1191661613769366
+    },
+    {
+        "img_path": "deepai_8_6_1_1.jpg",
+        "gt_score": 2.846522424707029
+    },
+    {
+        "img_path": "deepai_8_7_0_0.jpg",
+        "gt_score": 2.6023934574331515
+    },
+    {
+        "img_path": "deepai_8_7_0_1.jpg",
+        "gt_score": 3.3825553771118733
+    },
+    {
+        "img_path": "deepai_8_7_1_0.jpg",
+        "gt_score": 2.591266040775753
+    },
+    {
+        "img_path": "deepai_8_7_1_1.jpg",
+        "gt_score": 2.5236031606892673
+    },
+    {
+        "img_path": "deepai_8_8_0_0.jpg",
+        "gt_score": 2.3102701826104
+    },
+    {
+        "img_path": "deepai_8_8_0_1.jpg",
+        "gt_score": 2.4087031763396585
+    },
+    {
+        "img_path": "deepai_8_8_1_0.jpg",
+        "gt_score": 2.306771336014769
+    },
+    {
+        "img_path": "deepai_8_8_1_1.jpg",
+        "gt_score": 3.369019243670635
+    },
+    {
+        "img_path": "deepai_8_9_0_0.jpg",
+        "gt_score": 2.4080731747782127
+    },
+    {
+        "img_path": "deepai_8_9_0_1.jpg",
+        "gt_score": 2.0925764088523944
+    },
+    {
+        "img_path": "deepai_8_9_1_0.jpg",
+        "gt_score": 3.354544753257805
+    },
+    {
+        "img_path": "deepai_8_9_1_1.jpg",
+        "gt_score": 3.124016645636525
+    },
+    {
+        "img_path": "deepai_9_0_0_0.jpg",
+        "gt_score": 3.362415078672566
+    },
+    {
+        "img_path": "deepai_9_0_0_1.jpg",
+        "gt_score": 4.074428849489113
+    },
+    {
+        "img_path": "deepai_9_0_1_0.jpg",
+        "gt_score": 3.001962501725639
+    },
+    {
+        "img_path": "deepai_9_0_1_1.jpg",
+        "gt_score": 4.422065847326173
+    },
+    {
+        "img_path": "deepai_9_1_0_0.jpg",
+        "gt_score": 3.0721723285621696
+    },
+    {
+        "img_path": "deepai_9_1_0_1.jpg",
+        "gt_score": 2.87874203922548
+    },
+    {
+        "img_path": "deepai_9_1_1_0.jpg",
+        "gt_score": 3.0610045349917856
+    },
+    {
+        "img_path": "deepai_9_1_1_1.jpg",
+        "gt_score": 3.842143990584013
+    },
+    {
+        "img_path": "deepai_9_10_0_0.jpg",
+        "gt_score": 3.5158617413961406
+    },
+    {
+        "img_path": "deepai_9_10_0_1.jpg",
+        "gt_score": 3.829408646526677
+    },
+    {
+        "img_path": "deepai_9_10_1_0.jpg",
+        "gt_score": 2.575683320080231
+    },
+    {
+        "img_path": "deepai_9_10_1_1.jpg",
+        "gt_score": 2.9794136153509467
+    },
+    {
+        "img_path": "deepai_9_11_0_0.jpg",
+        "gt_score": 2.8913031957845443
+    },
+    {
+        "img_path": "deepai_9_11_0_1.jpg",
+        "gt_score": 2.5896175079846953
+    },
+    {
+        "img_path": "deepai_9_11_1_0.jpg",
+        "gt_score": 2.5972270504156834
+    },
+    {
+        "img_path": "deepai_9_11_1_1.jpg",
+        "gt_score": 3.2208186376361763
+    },
+    {
+        "img_path": "deepai_9_12_0_0.jpg",
+        "gt_score": 2.940955655160127
+    },
+    {
+        "img_path": "deepai_9_12_0_1.jpg",
+        "gt_score": 3.299845986892422
+    },
+    {
+        "img_path": "deepai_9_12_1_0.jpg",
+        "gt_score": 2.8171400114540273
+    },
+    {
+        "img_path": "deepai_9_12_1_1.jpg",
+        "gt_score": 1.9382961032042703
+    },
+    {
+        "img_path": "deepai_9_13_0_0.jpg",
+        "gt_score": 2.392298883473615
+    },
+    {
+        "img_path": "deepai_9_13_0_1.jpg",
+        "gt_score": 3.304106099251976
+    },
+    {
+        "img_path": "deepai_9_13_1_0.jpg",
+        "gt_score": 2.2624216406247504
+    },
+    {
+        "img_path": "deepai_9_13_1_1.jpg",
+        "gt_score": 2.6629692283111672
+    },
+    {
+        "img_path": "deepai_9_14_0_0.jpg",
+        "gt_score": 2.7612373925012736
+    },
+    {
+        "img_path": "deepai_9_14_0_1.jpg",
+        "gt_score": 3.6465895473361822
+    },
+    {
+        "img_path": "deepai_9_14_1_0.jpg",
+        "gt_score": 2.308940643970244
+    },
+    {
+        "img_path": "deepai_9_14_1_1.jpg",
+        "gt_score": 3.847000230411578
+    },
+    {
+        "img_path": "deepai_9_2_0_0.jpg",
+        "gt_score": 2.9034898166927765
+    },
+    {
+        "img_path": "deepai_9_2_0_1.jpg",
+        "gt_score": 3.066436132573106
+    },
+    {
+        "img_path": "deepai_9_2_1_0.jpg",
+        "gt_score": 3.127910475726202
+    },
+    {
+        "img_path": "deepai_9_2_1_1.jpg",
+        "gt_score": 3.468469235715027
+    },
+    {
+        "img_path": "deepai_9_3_0_0.jpg",
+        "gt_score": 3.0314707383997286
+    },
+    {
+        "img_path": "deepai_9_3_0_1.jpg",
+        "gt_score": 3.039853228695206
+    },
+    {
+        "img_path": "deepai_9_3_1_0.jpg",
+        "gt_score": 2.5680512891242975
+    },
+    {
+        "img_path": "deepai_9_3_1_1.jpg",
+        "gt_score": 2.414117275034084
+    },
+    {
+        "img_path": "deepai_9_4_0_0.jpg",
+        "gt_score": 2.153327683465864
+    },
+    {
+        "img_path": "deepai_9_4_0_1.jpg",
+        "gt_score": 2.465409829740869
+    },
+    {
+        "img_path": "deepai_9_4_1_0.jpg",
+        "gt_score": 2.9335155838905718
+    },
+    {
+        "img_path": "deepai_9_4_1_1.jpg",
+        "gt_score": 2.409125055091046
+    },
+    {
+        "img_path": "deepai_9_5_0_0.jpg",
+        "gt_score": 3.0937565101013225
+    },
+    {
+        "img_path": "deepai_9_5_0_1.jpg",
+        "gt_score": 2.3372205503339747
+    },
+    {
+        "img_path": "deepai_9_5_1_0.jpg",
+        "gt_score": 2.8240804177808925
+    },
+    {
+        "img_path": "deepai_9_5_1_1.jpg",
+        "gt_score": 2.8668830231756943
+    },
+    {
+        "img_path": "deepai_9_6_0_0.jpg",
+        "gt_score": 3.187209133247893
+    },
+    {
+        "img_path": "deepai_9_6_0_1.jpg",
+        "gt_score": 3.1210420668501935
+    },
+    {
+        "img_path": "deepai_9_6_1_0.jpg",
+        "gt_score": 2.7459300055677853
+    },
+    {
+        "img_path": "deepai_9_6_1_1.jpg",
+        "gt_score": 3.134373148874395
+    },
+    {
+        "img_path": "deepai_9_7_0_0.jpg",
+        "gt_score": 2.593813840818802
+    },
+    {
+        "img_path": "deepai_9_7_0_1.jpg",
+        "gt_score": 3.321081687817445
+    },
+    {
+        "img_path": "deepai_9_7_1_0.jpg",
+        "gt_score": 2.431844269201167
+    },
+    {
+        "img_path": "deepai_9_7_1_1.jpg",
+        "gt_score": 2.581406163262106
+    },
+    {
+        "img_path": "deepai_9_8_0_0.jpg",
+        "gt_score": 2.6311850032435435
+    },
+    {
+        "img_path": "deepai_9_8_0_1.jpg",
+        "gt_score": 2.6213639025221434
+    },
+    {
+        "img_path": "deepai_9_8_1_0.jpg",
+        "gt_score": 2.6449185595357316
+    },
+    {
+        "img_path": "deepai_9_8_1_1.jpg",
+        "gt_score": 2.2049528812389765
+    },
+    {
+        "img_path": "deepai_9_9_0_0.jpg",
+        "gt_score": 3.227773050205056
+    },
+    {
+        "img_path": "deepai_9_9_0_1.jpg",
+        "gt_score": 2.852939438900782
+    },
+    {
+        "img_path": "deepai_9_9_1_0.jpg",
+        "gt_score": 1.9236336091179616
+    },
+    {
+        "img_path": "deepai_9_9_1_1.jpg",
+        "gt_score": 3.3500052764087602
+    },
+    {
+        "img_path": "dreamStudio_0_0_0_0.jpg",
+        "gt_score": 2.1342476098301777
+    },
+    {
+        "img_path": "dreamStudio_0_0_0_1.jpg",
+        "gt_score": 3.116442702987173
+    },
+    {
+        "img_path": "dreamStudio_0_0_1_0.jpg",
+        "gt_score": 1.9294634288461319
+    },
+    {
+        "img_path": "dreamStudio_0_0_1_1.jpg",
+        "gt_score": 2.3128865714848006
+    },
+    {
+        "img_path": "dreamStudio_0_1_0_0.jpg",
+        "gt_score": 2.1137625359283225
+    },
+    {
+        "img_path": "dreamStudio_0_1_0_1.jpg",
+        "gt_score": 1.9124544295552477
+    },
+    {
+        "img_path": "dreamStudio_0_1_1_0.jpg",
+        "gt_score": 1.5149363927456443
+    },
+    {
+        "img_path": "dreamStudio_0_1_1_1.jpg",
+        "gt_score": 1.806856415282595
+    },
+    {
+        "img_path": "dreamStudio_0_2_0_0.jpg",
+        "gt_score": 1.3983363961593775
+    },
+    {
+        "img_path": "dreamStudio_0_2_0_1.jpg",
+        "gt_score": 1.9684211563162406
+    },
+    {
+        "img_path": "dreamStudio_0_2_1_0.jpg",
+        "gt_score": 1.6691116890861728
+    },
+    {
+        "img_path": "dreamStudio_0_2_1_1.jpg",
+        "gt_score": 1.6088162289597192
+    },
+    {
+        "img_path": "dreamStudio_0_3_0_0.jpg",
+        "gt_score": 2.048431269760679
+    },
+    {
+        "img_path": "dreamStudio_0_3_0_1.jpg",
+        "gt_score": 0.9663606481863166
+    },
+    {
+        "img_path": "dreamStudio_0_3_1_0.jpg",
+        "gt_score": 0.24437445495150908
+    },
+    {
+        "img_path": "dreamStudio_0_3_1_1.jpg",
+        "gt_score": 2.35358429902725
+    },
+    {
+        "img_path": "dreamStudio_0_4_0_0.jpg",
+        "gt_score": 0.38272199134379775
+    },
+    {
+        "img_path": "dreamStudio_0_4_0_1.jpg",
+        "gt_score": 2.330297948369773
+    },
+    {
+        "img_path": "dreamStudio_0_4_1_0.jpg",
+        "gt_score": 1.6921076470122591
+    },
+    {
+        "img_path": "dreamStudio_0_4_1_1.jpg",
+        "gt_score": 1.4549080899979019
+    },
+    {
+        "img_path": "dreamStudio_0_5_0_0.jpg",
+        "gt_score": 1.1021340460391404
+    },
+    {
+        "img_path": "dreamStudio_0_5_0_1.jpg",
+        "gt_score": 1.426088795637163
+    },
+    {
+        "img_path": "dreamStudio_0_5_1_0.jpg",
+        "gt_score": 1.1633585728081681
+    },
+    {
+        "img_path": "dreamStudio_0_5_1_1.jpg",
+        "gt_score": 1.679159866381535
+    },
+    {
+        "img_path": "dreamStudio_0_6_0_0.jpg",
+        "gt_score": 0.895384556213153
+    },
+    {
+        "img_path": "dreamStudio_0_6_0_1.jpg",
+        "gt_score": 0.49510091629643965
+    },
+    {
+        "img_path": "dreamStudio_0_6_1_0.jpg",
+        "gt_score": 1.3728229457719208
+    },
+    {
+        "img_path": "dreamStudio_0_6_1_1.jpg",
+        "gt_score": 2.111719241884582
+    },
+    {
+        "img_path": "dreamStudio_0_7_0_0.jpg",
+        "gt_score": 1.5750448697514068
+    },
+    {
+        "img_path": "dreamStudio_0_7_0_1.jpg",
+        "gt_score": 1.2790566945412813
+    },
+    {
+        "img_path": "dreamStudio_0_7_1_0.jpg",
+        "gt_score": 2.0795965215087566
+    },
+    {
+        "img_path": "dreamStudio_0_7_1_1.jpg",
+        "gt_score": 2.062763773204901
+    },
+    {
+        "img_path": "dreamStudio_0_8_0_0.jpg",
+        "gt_score": 1.3900393527958441
+    },
+    {
+        "img_path": "dreamStudio_0_8_0_1.jpg",
+        "gt_score": 1.5383526293023806
+    },
+    {
+        "img_path": "dreamStudio_0_8_1_0.jpg",
+        "gt_score": 1.7933629216774372
+    },
+    {
+        "img_path": "dreamStudio_0_8_1_1.jpg",
+        "gt_score": 3.0561382131843926
+    },
+    {
+        "img_path": "dreamStudio_0_9_0_0.jpg",
+        "gt_score": 1.7444522497155013
+    },
+    {
+        "img_path": "dreamStudio_0_9_0_1.jpg",
+        "gt_score": 1.7435714850840756
+    },
+    {
+        "img_path": "dreamStudio_0_9_1_0.jpg",
+        "gt_score": 2.2177494457904268
+    },
+    {
+        "img_path": "dreamStudio_0_9_1_1.jpg",
+        "gt_score": 1.9019250137878105
+    },
+    {
+        "img_path": "dreamStudio_1_0_0_0.jpg",
+        "gt_score": 2.042303733786959
+    },
+    {
+        "img_path": "dreamStudio_1_0_0_1.jpg",
+        "gt_score": 2.4113187123448956
+    },
+    {
+        "img_path": "dreamStudio_1_0_1_0.jpg",
+        "gt_score": 2.2856424122017036
+    },
+    {
+        "img_path": "dreamStudio_1_0_1_1.jpg",
+        "gt_score": 1.516176276731957
+    },
+    {
+        "img_path": "dreamStudio_1_1_0_0.jpg",
+        "gt_score": 1.9720182458900772
+    },
+    {
+        "img_path": "dreamStudio_1_1_0_1.jpg",
+        "gt_score": 2.1752290917753987
+    },
+    {
+        "img_path": "dreamStudio_1_1_1_0.jpg",
+        "gt_score": 1.0704634059549518
+    },
+    {
+        "img_path": "dreamStudio_1_1_1_1.jpg",
+        "gt_score": 1.948792108246292
+    },
+    {
+        "img_path": "dreamStudio_1_2_0_0.jpg",
+        "gt_score": 1.6006537430092052
+    },
+    {
+        "img_path": "dreamStudio_1_2_0_1.jpg",
+        "gt_score": 1.3715906907755355
+    },
+    {
+        "img_path": "dreamStudio_1_2_1_0.jpg",
+        "gt_score": 1.162164505668548
+    },
+    {
+        "img_path": "dreamStudio_1_2_1_1.jpg",
+        "gt_score": 1.893555782906615
+    },
+    {
+        "img_path": "dreamStudio_1_3_0_0.jpg",
+        "gt_score": 1.8954734749229474
+    },
+    {
+        "img_path": "dreamStudio_1_3_0_1.jpg",
+        "gt_score": 2.044701979089826
+    },
+    {
+        "img_path": "dreamStudio_1_3_1_0.jpg",
+        "gt_score": 1.1390567623141024
+    },
+    {
+        "img_path": "dreamStudio_1_3_1_1.jpg",
+        "gt_score": 1.5902545708914575
+    },
+    {
+        "img_path": "dreamStudio_1_4_0_0.jpg",
+        "gt_score": 1.1440568947067815
+    },
+    {
+        "img_path": "dreamStudio_1_4_0_1.jpg",
+        "gt_score": 1.8576963329368168
+    },
+    {
+        "img_path": "dreamStudio_1_4_1_0.jpg",
+        "gt_score": 1.5481763824480197
+    },
+    {
+        "img_path": "dreamStudio_1_4_1_1.jpg",
+        "gt_score": 2.0732806540026076
+    },
+    {
+        "img_path": "dreamStudio_1_5_0_0.jpg",
+        "gt_score": 1.1158548062850675
+    },
+    {
+        "img_path": "dreamStudio_1_5_0_1.jpg",
+        "gt_score": 0.7627666391235025
+    },
+    {
+        "img_path": "dreamStudio_1_5_1_0.jpg",
+        "gt_score": 1.287783602972718
+    },
+    {
+        "img_path": "dreamStudio_1_5_1_1.jpg",
+        "gt_score": 3.4125308142653084
+    },
+    {
+        "img_path": "dreamStudio_1_6_0_0.jpg",
+        "gt_score": 1.2385205261344656
+    },
+    {
+        "img_path": "dreamStudio_1_6_0_1.jpg",
+        "gt_score": 1.429493567774191
+    },
+    {
+        "img_path": "dreamStudio_1_6_1_0.jpg",
+        "gt_score": 1.5727667861184003
+    },
+    {
+        "img_path": "dreamStudio_1_6_1_1.jpg",
+        "gt_score": 1.8307420092003417
+    },
+    {
+        "img_path": "dreamStudio_1_7_0_0.jpg",
+        "gt_score": 1.2693288598085584
+    },
+    {
+        "img_path": "dreamStudio_1_7_0_1.jpg",
+        "gt_score": 1.863484755199214
+    },
+    {
+        "img_path": "dreamStudio_1_7_1_0.jpg",
+        "gt_score": 1.9748991397189501
+    },
+    {
+        "img_path": "dreamStudio_1_7_1_1.jpg",
+        "gt_score": 2.1042938400832396
+    },
+    {
+        "img_path": "dreamStudio_1_8_0_0.jpg",
+        "gt_score": 2.00775527126692
+    },
+    {
+        "img_path": "dreamStudio_1_8_0_1.jpg",
+        "gt_score": 2.123137965784728
+    },
+    {
+        "img_path": "dreamStudio_1_8_1_0.jpg",
+        "gt_score": 3.1625633557612045
+    },
+    {
+        "img_path": "dreamStudio_1_8_1_1.jpg",
+        "gt_score": 1.6796354426785414
+    },
+    {
+        "img_path": "dreamStudio_1_9_0_0.jpg",
+        "gt_score": 1.37302629145063
+    },
+    {
+        "img_path": "dreamStudio_1_9_0_1.jpg",
+        "gt_score": 1.9689715408044348
+    },
+    {
+        "img_path": "dreamStudio_1_9_1_0.jpg",
+        "gt_score": 1.8309334121257934
+    },
+    {
+        "img_path": "dreamStudio_1_9_1_1.jpg",
+        "gt_score": 2.287012044295131
+    },
+    {
+        "img_path": "dreamStudio_2_0_0_0.jpg",
+        "gt_score": 2.3609540136610914
+    },
+    {
+        "img_path": "dreamStudio_2_0_0_1.jpg",
+        "gt_score": 1.480003166927374
+    },
+    {
+        "img_path": "dreamStudio_2_0_1_0.jpg",
+        "gt_score": 0.6483237116312175
+    },
+    {
+        "img_path": "dreamStudio_2_0_1_1.jpg",
+        "gt_score": 1.5114382929777463
+    },
+    {
+        "img_path": "dreamStudio_2_1_0_0.jpg",
+        "gt_score": 1.2709552744736223
+    },
+    {
+        "img_path": "dreamStudio_2_1_0_1.jpg",
+        "gt_score": 1.8566245231303689
+    },
+    {
+        "img_path": "dreamStudio_2_1_1_0.jpg",
+        "gt_score": 1.6984800639226045
+    },
+    {
+        "img_path": "dreamStudio_2_1_1_1.jpg",
+        "gt_score": 1.8064608138092704
+    },
+    {
+        "img_path": "dreamStudio_2_2_0_0.jpg",
+        "gt_score": 1.5607982027402727
+    },
+    {
+        "img_path": "dreamStudio_2_2_0_1.jpg",
+        "gt_score": 0.0
+    },
+    {
+        "img_path": "dreamStudio_2_2_1_0.jpg",
+        "gt_score": 1.67218784846049
+    },
+    {
+        "img_path": "dreamStudio_2_2_1_1.jpg",
+        "gt_score": 1.6197561991284068
+    },
+    {
+        "img_path": "dreamStudio_2_3_0_0.jpg",
+        "gt_score": 1.501376572808389
+    },
+    {
+        "img_path": "dreamStudio_2_3_0_1.jpg",
+        "gt_score": 1.1927651355013653
+    },
+    {
+        "img_path": "dreamStudio_2_3_1_0.jpg",
+        "gt_score": 1.3318305733769447
+    },
+    {
+        "img_path": "dreamStudio_2_3_1_1.jpg",
+        "gt_score": 1.932730695037664
+    },
+    {
+        "img_path": "dreamStudio_2_4_0_0.jpg",
+        "gt_score": 1.9714246648048759
+    },
+    {
+        "img_path": "dreamStudio_2_4_0_1.jpg",
+        "gt_score": 1.5367059572847517
+    },
+    {
+        "img_path": "dreamStudio_2_4_1_0.jpg",
+        "gt_score": 0.7087625687802109
+    },
+    {
+        "img_path": "dreamStudio_2_4_1_1.jpg",
+        "gt_score": 1.5082737825382464
+    },
+    {
+        "img_path": "dreamStudio_2_5_0_0.jpg",
+        "gt_score": 1.4698040696609753
+    },
+    {
+        "img_path": "dreamStudio_2_5_0_1.jpg",
+        "gt_score": 2.095401867222767
+    },
+    {
+        "img_path": "dreamStudio_2_5_1_0.jpg",
+        "gt_score": 0.0
+    },
+    {
+        "img_path": "dreamStudio_2_5_1_1.jpg",
+        "gt_score": 2.3333977325979136
+    },
+    {
+        "img_path": "dreamStudio_2_6_0_0.jpg",
+        "gt_score": 0.6212989995083149
+    },
+    {
+        "img_path": "dreamStudio_2_6_0_1.jpg",
+        "gt_score": 1.861856045860341
+    },
+    {
+        "img_path": "dreamStudio_2_6_1_0.jpg",
+        "gt_score": 0.4939116906372789
+    },
+    {
+        "img_path": "dreamStudio_2_6_1_1.jpg",
+        "gt_score": 2.193231197886995
+    },
+    {
+        "img_path": "dreamStudio_2_7_0_0.jpg",
+        "gt_score": 2.530612156271325
+    },
+    {
+        "img_path": "dreamStudio_2_7_0_1.jpg",
+        "gt_score": 2.7236504106464454
+    },
+    {
+        "img_path": "dreamStudio_2_7_1_0.jpg",
+        "gt_score": 1.8072246259560019
+    },
+    {
+        "img_path": "dreamStudio_2_7_1_1.jpg",
+        "gt_score": 1.8005307619048536
+    },
+    {
+        "img_path": "dreamStudio_2_8_0_0.jpg",
+        "gt_score": 1.5311689832778734
+    },
+    {
+        "img_path": "dreamStudio_2_8_0_1.jpg",
+        "gt_score": 2.79114606942223
+    },
+    {
+        "img_path": "dreamStudio_2_8_1_0.jpg",
+        "gt_score": 1.7649038512497477
+    },
+    {
+        "img_path": "dreamStudio_2_8_1_1.jpg",
+        "gt_score": 2.0842609076913727
+    },
+    {
+        "img_path": "dreamStudio_2_9_0_0.jpg",
+        "gt_score": 1.9746865649295764
+    },
+    {
+        "img_path": "dreamStudio_2_9_0_1.jpg",
+        "gt_score": 2.14080927278431
+    },
+    {
+        "img_path": "dreamStudio_2_9_1_0.jpg",
+        "gt_score": 1.405972679236448
+    },
+    {
+        "img_path": "dreamStudio_2_9_1_1.jpg",
+        "gt_score": 2.4228851175632737
+    },
+    {
+        "img_path": "dreamStudio_3_0_0_0.jpg",
+        "gt_score": 3.271610191637056
+    },
+    {
+        "img_path": "dreamStudio_3_0_0_1.jpg",
+        "gt_score": 2.200678730462853
+    },
+    {
+        "img_path": "dreamStudio_3_0_1_0.jpg",
+        "gt_score": 1.7234285346443705
+    },
+    {
+        "img_path": "dreamStudio_3_0_1_1.jpg",
+        "gt_score": 2.4314584535994346
+    },
+    {
+        "img_path": "dreamStudio_3_1_0_0.jpg",
+        "gt_score": 1.4512889756909797
+    },
+    {
+        "img_path": "dreamStudio_3_1_0_1.jpg",
+        "gt_score": 1.7394649129452426
+    },
+    {
+        "img_path": "dreamStudio_3_1_1_0.jpg",
+        "gt_score": 0.0
+    },
+    {
+        "img_path": "dreamStudio_3_1_1_1.jpg",
+        "gt_score": 2.112409266392913
+    },
+    {
+        "img_path": "dreamStudio_3_2_0_0.jpg",
+        "gt_score": 2.0494229053091066
+    },
+    {
+        "img_path": "dreamStudio_3_2_0_1.jpg",
+        "gt_score": 1.281986247707892
+    },
+    {
+        "img_path": "dreamStudio_3_2_1_0.jpg",
+        "gt_score": 2.0101526020584295
+    },
+    {
+        "img_path": "dreamStudio_3_2_1_1.jpg",
+        "gt_score": 2.226629537115995
+    },
+    {
+        "img_path": "dreamStudio_3_3_0_0.jpg",
+        "gt_score": 2.164345471576569
+    },
+    {
+        "img_path": "dreamStudio_3_3_0_1.jpg",
+        "gt_score": 2.074998863384064
+    },
+    {
+        "img_path": "dreamStudio_3_3_1_0.jpg",
+        "gt_score": 2.395625152059245
+    },
+    {
+        "img_path": "dreamStudio_3_3_1_1.jpg",
+        "gt_score": 1.3342977970123078
+    },
+    {
+        "img_path": "dreamStudio_3_4_0_0.jpg",
+        "gt_score": 1.4539295461801314
+    },
+    {
+        "img_path": "dreamStudio_3_4_0_1.jpg",
+        "gt_score": 3.3225181413617024
+    },
+    {
+        "img_path": "dreamStudio_3_4_1_0.jpg",
+        "gt_score": 2.0884148967976355
+    },
+    {
+        "img_path": "dreamStudio_3_4_1_1.jpg",
+        "gt_score": 1.36831956154017
+    },
+    {
+        "img_path": "dreamStudio_3_5_0_0.jpg",
+        "gt_score": 2.03315975591004
+    },
+    {
+        "img_path": "dreamStudio_3_5_0_1.jpg",
+        "gt_score": 3.2586273912164883
+    },
+    {
+        "img_path": "dreamStudio_3_5_1_0.jpg",
+        "gt_score": 1.7184715988486992
+    },
+    {
+        "img_path": "dreamStudio_3_5_1_1.jpg",
+        "gt_score": 0.0
+    },
+    {
+        "img_path": "dreamStudio_3_6_0_0.jpg",
+        "gt_score": 1.6756127401579377
+    },
+    {
+        "img_path": "dreamStudio_3_6_0_1.jpg",
+        "gt_score": 1.2366872604972896
+    },
+    {
+        "img_path": "dreamStudio_3_6_1_0.jpg",
+        "gt_score": 1.838285879157899
+    },
+    {
+        "img_path": "dreamStudio_3_6_1_1.jpg",
+        "gt_score": 1.8640905751459094
+    },
+    {
+        "img_path": "dreamStudio_3_7_0_0.jpg",
+        "gt_score": 2.314842651216077
+    },
+    {
+        "img_path": "dreamStudio_3_7_0_1.jpg",
+        "gt_score": 1.4182268460400616
+    },
+    {
+        "img_path": "dreamStudio_3_7_1_0.jpg",
+        "gt_score": 1.9503297084781535
+    },
+    {
+        "img_path": "dreamStudio_3_7_1_1.jpg",
+        "gt_score": 2.294439709019568
+    },
+    {
+        "img_path": "dreamStudio_3_8_0_0.jpg",
+        "gt_score": 2.3240835236594646
+    },
+    {
+        "img_path": "dreamStudio_3_8_0_1.jpg",
+        "gt_score": 1.4697050798550366
+    },
+    {
+        "img_path": "dreamStudio_3_8_1_0.jpg",
+        "gt_score": 1.3456918142874905
+    },
+    {
+        "img_path": "dreamStudio_3_8_1_1.jpg",
+        "gt_score": 1.8836778366727822
+    },
+    {
+        "img_path": "dreamStudio_3_9_0_0.jpg",
+        "gt_score": 2.3897595657134976
+    },
+    {
+        "img_path": "dreamStudio_3_9_0_1.jpg",
+        "gt_score": 2.9170309883418963
+    },
+    {
+        "img_path": "dreamStudio_3_9_1_0.jpg",
+        "gt_score": 2.024806224784504
+    },
+    {
+        "img_path": "dreamStudio_3_9_1_1.jpg",
+        "gt_score": 2.011996011317628
+    },
+    {
+        "img_path": "dreamStudio_4_0_0_0.jpg",
+        "gt_score": 2.434500738880317
+    },
+    {
+        "img_path": "dreamStudio_4_0_0_1.jpg",
+        "gt_score": 2.80743887296815
+    },
+    {
+        "img_path": "dreamStudio_4_0_1_0.jpg",
+        "gt_score": 2.3300845207112357
+    },
+    {
+        "img_path": "dreamStudio_4_0_1_1.jpg",
+        "gt_score": 1.9711598637421675
+    },
+    {
+        "img_path": "dreamStudio_4_1_0_0.jpg",
+        "gt_score": 1.7287925635232855
+    },
+    {
+        "img_path": "dreamStudio_4_1_0_1.jpg",
+        "gt_score": 2.161891790815201
+    },
+    {
+        "img_path": "dreamStudio_4_1_1_0.jpg",
+        "gt_score": 1.7444703180118457
+    },
+    {
+        "img_path": "dreamStudio_4_1_1_1.jpg",
+        "gt_score": 1.3696882791222396
+    },
+    {
+        "img_path": "dreamStudio_4_2_0_0.jpg",
+        "gt_score": 2.1338614369018565
+    },
+    {
+        "img_path": "dreamStudio_4_2_0_1.jpg",
+        "gt_score": 1.637542659057607
+    },
+    {
+        "img_path": "dreamStudio_4_2_1_0.jpg",
+        "gt_score": 0.008490800310405026
+    },
+    {
+        "img_path": "dreamStudio_4_2_1_1.jpg",
+        "gt_score": 1.1271981652330987
+    },
+    {
+        "img_path": "dreamStudio_4_3_0_0.jpg",
+        "gt_score": 1.3802859880366325
+    },
+    {
+        "img_path": "dreamStudio_4_3_0_1.jpg",
+        "gt_score": 1.4388633354555282
+    },
+    {
+        "img_path": "dreamStudio_4_3_1_0.jpg",
+        "gt_score": 1.2439394953531482
+    },
+    {
+        "img_path": "dreamStudio_4_3_1_1.jpg",
+        "gt_score": 1.5362671587905785
+    },
+    {
+        "img_path": "dreamStudio_4_4_0_0.jpg",
+        "gt_score": 1.874006741411062
+    },
+    {
+        "img_path": "dreamStudio_4_4_0_1.jpg",
+        "gt_score": 0.21206599382530025
+    },
+    {
+        "img_path": "dreamStudio_4_4_1_0.jpg",
+        "gt_score": 0.35714296187581807
+    },
+    {
+        "img_path": "dreamStudio_4_4_1_1.jpg",
+        "gt_score": 0.22556108755119617
+    },
+    {
+        "img_path": "dreamStudio_4_5_0_0.jpg",
+        "gt_score": 1.009097082284122
+    },
+    {
+        "img_path": "dreamStudio_4_5_0_1.jpg",
+        "gt_score": 0.5429391250171022
+    },
+    {
+        "img_path": "dreamStudio_4_5_1_0.jpg",
+        "gt_score": 1.3755384178451684
+    },
+    {
+        "img_path": "dreamStudio_4_5_1_1.jpg",
+        "gt_score": 0.6058618644677124
+    },
+    {
+        "img_path": "dreamStudio_4_6_0_0.jpg",
+        "gt_score": 0.47669459800397473
+    },
+    {
+        "img_path": "dreamStudio_4_6_0_1.jpg",
+        "gt_score": 0.9674980370732872
+    },
+    {
+        "img_path": "dreamStudio_4_6_1_0.jpg",
+        "gt_score": 1.0047727687234218
+    },
+    {
+        "img_path": "dreamStudio_4_6_1_1.jpg",
+        "gt_score": 0.7748473040382261
+    },
+    {
+        "img_path": "dreamStudio_4_7_0_0.jpg",
+        "gt_score": 0.34900285840881967
+    },
+    {
+        "img_path": "dreamStudio_4_7_0_1.jpg",
+        "gt_score": 1.2662631397406592
+    },
+    {
+        "img_path": "dreamStudio_4_7_1_0.jpg",
+        "gt_score": 2.3723293732806066
+    },
+    {
+        "img_path": "dreamStudio_4_7_1_1.jpg",
+        "gt_score": 1.7432286666450125
+    },
+    {
+        "img_path": "dreamStudio_4_8_0_0.jpg",
+        "gt_score": 2.1157789216423564
+    },
+    {
+        "img_path": "dreamStudio_4_8_0_1.jpg",
+        "gt_score": 0.6603543071542716
+    },
+    {
+        "img_path": "dreamStudio_4_8_1_0.jpg",
+        "gt_score": 2.0890911051307586
+    },
+    {
+        "img_path": "dreamStudio_4_8_1_1.jpg",
+        "gt_score": 2.0067236483066515
+    },
+    {
+        "img_path": "dreamStudio_4_9_0_0.jpg",
+        "gt_score": 0.0
+    },
+    {
+        "img_path": "dreamStudio_4_9_0_1.jpg",
+        "gt_score": 2.3337466321808273
+    },
+    {
+        "img_path": "dreamStudio_4_9_1_0.jpg",
+        "gt_score": 0.4379193722076035
+    },
+    {
+        "img_path": "dreamStudio_4_9_1_1.jpg",
+        "gt_score": 0.9848180437747157
+    },
+    {
+        "img_path": "dreamStudio_5_0_0_0.jpg",
+        "gt_score": 1.8728222928832507
+    },
+    {
+        "img_path": "dreamStudio_5_0_0_1.jpg",
+        "gt_score": 1.9527991950366115
+    },
+    {
+        "img_path": "dreamStudio_5_0_1_0.jpg",
+        "gt_score": 2.317690134319535
+    },
+    {
+        "img_path": "dreamStudio_5_0_1_1.jpg",
+        "gt_score": 1.871349418862749
+    },
+    {
+        "img_path": "dreamStudio_5_1_0_0.jpg",
+        "gt_score": 2.124192109020657
+    },
+    {
+        "img_path": "dreamStudio_5_1_0_1.jpg",
+        "gt_score": 2.123548458543786
+    },
+    {
+        "img_path": "dreamStudio_5_1_1_0.jpg",
+        "gt_score": 1.2503975492622437
+    },
+    {
+        "img_path": "dreamStudio_5_1_1_1.jpg",
+        "gt_score": 2.379808221342409
+    },
+    {
+        "img_path": "dreamStudio_5_2_0_0.jpg",
+        "gt_score": 1.9678865776251364
+    },
+    {
+        "img_path": "dreamStudio_5_2_0_1.jpg",
+        "gt_score": 0.6796589950064874
+    },
+    {
+        "img_path": "dreamStudio_5_2_1_0.jpg",
+        "gt_score": 1.6575202493838808
+    },
+    {
+        "img_path": "dreamStudio_5_2_1_1.jpg",
+        "gt_score": 2.1223064176758086
+    },
+    {
+        "img_path": "dreamStudio_5_3_0_0.jpg",
+        "gt_score": 0.6662017318107673
+    },
+    {
+        "img_path": "dreamStudio_5_3_0_1.jpg",
+        "gt_score": 2.042997904798838
+    },
+    {
+        "img_path": "dreamStudio_5_3_1_0.jpg",
+        "gt_score": 2.1938951057164306
+    },
+    {
+        "img_path": "dreamStudio_5_3_1_1.jpg",
+        "gt_score": 1.3281917906529401
+    },
+    {
+        "img_path": "dreamStudio_5_4_0_0.jpg",
+        "gt_score": 1.8046561495916058
+    },
+    {
+        "img_path": "dreamStudio_5_4_0_1.jpg",
+        "gt_score": 1.7407227596103108
+    },
+    {
+        "img_path": "dreamStudio_5_4_1_0.jpg",
+        "gt_score": 1.8751629458459518
+    },
+    {
+        "img_path": "dreamStudio_5_4_1_1.jpg",
+        "gt_score": 1.9091143219873858
+    },
+    {
+        "img_path": "dreamStudio_5_5_0_0.jpg",
+        "gt_score": 1.29589366321556
+    },
+    {
+        "img_path": "dreamStudio_5_5_0_1.jpg",
+        "gt_score": 1.361637579023926
+    },
+    {
+        "img_path": "dreamStudio_5_5_1_0.jpg",
+        "gt_score": 1.6545504477288977
+    },
+    {
+        "img_path": "dreamStudio_5_5_1_1.jpg",
+        "gt_score": 1.578947800103294
+    },
+    {
+        "img_path": "dreamStudio_5_6_0_0.jpg",
+        "gt_score": 1.626873413203227
+    },
+    {
+        "img_path": "dreamStudio_5_6_0_1.jpg",
+        "gt_score": 1.6443954615708634
+    },
+    {
+        "img_path": "dreamStudio_5_6_1_0.jpg",
+        "gt_score": 1.6987057304426356
+    },
+    {
+        "img_path": "dreamStudio_5_6_1_1.jpg",
+        "gt_score": 1.6604823604067434
+    },
+    {
+        "img_path": "dreamStudio_5_7_0_0.jpg",
+        "gt_score": 2.552294770431649
+    },
+    {
+        "img_path": "dreamStudio_5_7_0_1.jpg",
+        "gt_score": 2.463288885438736
+    },
+    {
+        "img_path": "dreamStudio_5_7_1_0.jpg",
+        "gt_score": 1.7030040628335092
+    },
+    {
+        "img_path": "dreamStudio_5_7_1_1.jpg",
+        "gt_score": 1.410930667335621
+    },
+    {
+        "img_path": "dreamStudio_5_8_0_0.jpg",
+        "gt_score": 2.2340142046777633
+    },
+    {
+        "img_path": "dreamStudio_5_8_0_1.jpg",
+        "gt_score": 1.992758144916243
+    },
+    {
+        "img_path": "dreamStudio_5_8_1_0.jpg",
+        "gt_score": 1.724126767710579
+    },
+    {
+        "img_path": "dreamStudio_5_8_1_1.jpg",
+        "gt_score": 1.956786520016941
+    },
+    {
+        "img_path": "dreamStudio_5_9_0_0.jpg",
+        "gt_score": 2.0357360513311695
+    },
+    {
+        "img_path": "dreamStudio_5_9_0_1.jpg",
+        "gt_score": 2.044533348149034
+    },
+    {
+        "img_path": "dreamStudio_5_9_1_0.jpg",
+        "gt_score": 1.6391410612386423
+    },
+    {
+        "img_path": "dreamStudio_5_9_1_1.jpg",
+        "gt_score": 0.4082476805927479
+    },
+    {
+        "img_path": "dreamStudio_6_0_0_0.jpg",
+        "gt_score": 2.682676000930225
+    },
+    {
+        "img_path": "dreamStudio_6_0_0_1.jpg",
+        "gt_score": 2.764259977190518
+    },
+    {
+        "img_path": "dreamStudio_6_0_1_0.jpg",
+        "gt_score": 0.6892008989220204
+    },
+    {
+        "img_path": "dreamStudio_6_0_1_1.jpg",
+        "gt_score": 1.6963994027167077
+    },
+    {
+        "img_path": "dreamStudio_6_1_0_0.jpg",
+        "gt_score": 1.997680755475142
+    },
+    {
+        "img_path": "dreamStudio_6_1_0_1.jpg",
+        "gt_score": 1.5023687655415847
+    },
+    {
+        "img_path": "dreamStudio_6_1_1_0.jpg",
+        "gt_score": 2.038736549645135
+    },
+    {
+        "img_path": "dreamStudio_6_1_1_1.jpg",
+        "gt_score": 1.9037484935533948
+    },
+    {
+        "img_path": "dreamStudio_6_2_0_0.jpg",
+        "gt_score": 2.7065505983567864
+    },
+    {
+        "img_path": "dreamStudio_6_2_0_1.jpg",
+        "gt_score": 1.6093064004342217
+    },
+    {
+        "img_path": "dreamStudio_6_2_1_0.jpg",
+        "gt_score": 0.3404259554370622
+    },
+    {
+        "img_path": "dreamStudio_6_2_1_1.jpg",
+        "gt_score": 1.1941237711036061
+    },
+    {
+        "img_path": "dreamStudio_6_3_0_0.jpg",
+        "gt_score": 1.470180656152043
+    },
+    {
+        "img_path": "dreamStudio_6_3_0_1.jpg",
+        "gt_score": 1.6791572139572957
+    },
+    {
+        "img_path": "dreamStudio_6_3_1_0.jpg",
+        "gt_score": 2.410097843340841
+    },
+    {
+        "img_path": "dreamStudio_6_3_1_1.jpg",
+        "gt_score": 0.022965290723235107
+    },
+    {
+        "img_path": "dreamStudio_6_4_0_0.jpg",
+        "gt_score": 2.3376337567356242
+    },
+    {
+        "img_path": "dreamStudio_6_4_0_1.jpg",
+        "gt_score": 0.0
+    },
+    {
+        "img_path": "dreamStudio_6_4_1_0.jpg",
+        "gt_score": 1.6302245490129885
+    },
+    {
+        "img_path": "dreamStudio_6_4_1_1.jpg",
+        "gt_score": 0.32822598172164175
+    },
+    {
+        "img_path": "dreamStudio_6_5_0_0.jpg",
+        "gt_score": 2.002489484942369
+    },
+    {
+        "img_path": "dreamStudio_6_5_0_1.jpg",
+        "gt_score": 1.261751936452175
+    },
+    {
+        "img_path": "dreamStudio_6_5_1_0.jpg",
+        "gt_score": 2.0129468065850507
+    },
+    {
+        "img_path": "dreamStudio_6_5_1_1.jpg",
+        "gt_score": 1.4321909393765384
+    },
+    {
+        "img_path": "dreamStudio_6_6_0_0.jpg",
+        "gt_score": 0.3910982622794382
+    },
+    {
+        "img_path": "dreamStudio_6_6_0_1.jpg",
+        "gt_score": 1.2489566759132253
+    },
+    {
+        "img_path": "dreamStudio_6_6_1_0.jpg",
+        "gt_score": 0.12702786164569135
+    },
+    {
+        "img_path": "dreamStudio_6_6_1_1.jpg",
+        "gt_score": 1.4905061381569653
+    },
+    {
+        "img_path": "dreamStudio_6_7_0_0.jpg",
+        "gt_score": 0.8208627480703239
+    },
+    {
+        "img_path": "dreamStudio_6_7_0_1.jpg",
+        "gt_score": 2.143723081796024
+    },
+    {
+        "img_path": "dreamStudio_6_7_1_0.jpg",
+        "gt_score": 1.8391287516169548
+    },
+    {
+        "img_path": "dreamStudio_6_7_1_1.jpg",
+        "gt_score": 1.8107170019066385
+    },
+    {
+        "img_path": "dreamStudio_6_8_0_0.jpg",
+        "gt_score": 2.23632785591785
+    },
+    {
+        "img_path": "dreamStudio_6_8_0_1.jpg",
+        "gt_score": 2.86553960115407
+    },
+    {
+        "img_path": "dreamStudio_6_8_1_0.jpg",
+        "gt_score": 1.4798851621391789
+    },
+    {
+        "img_path": "dreamStudio_6_8_1_1.jpg",
+        "gt_score": 3.069217090333969
+    },
+    {
+        "img_path": "dreamStudio_6_9_0_0.jpg",
+        "gt_score": 0.0
+    },
+    {
+        "img_path": "dreamStudio_6_9_0_1.jpg",
+        "gt_score": 1.9651109541803913
+    },
+    {
+        "img_path": "dreamStudio_6_9_1_0.jpg",
+        "gt_score": 2.804391315013344
+    },
+    {
+        "img_path": "dreamStudio_6_9_1_1.jpg",
+        "gt_score": 1.803817233145449
+    },
+    {
+        "img_path": "dreamStudio_7_0_0_0.jpg",
+        "gt_score": 0.10673935730178113
+    },
+    {
+        "img_path": "dreamStudio_7_0_0_1.jpg",
+        "gt_score": 2.2936069185403407
+    },
+    {
+        "img_path": "dreamStudio_7_0_1_0.jpg",
+        "gt_score": 0.30682001798437525
+    },
+    {
+        "img_path": "dreamStudio_7_0_1_1.jpg",
+        "gt_score": 1.1597808555431774
+    },
+    {
+        "img_path": "dreamStudio_7_1_0_0.jpg",
+        "gt_score": 2.052147216991875
+    },
+    {
+        "img_path": "dreamStudio_7_1_0_1.jpg",
+        "gt_score": 2.4819913198560117
+    },
+    {
+        "img_path": "dreamStudio_7_1_1_0.jpg",
+        "gt_score": 2.2776501573127197
+    },
+    {
+        "img_path": "dreamStudio_7_1_1_1.jpg",
+        "gt_score": 1.025307258582121
+    },
+    {
+        "img_path": "dreamStudio_7_2_0_0.jpg",
+        "gt_score": 2.0657159082893646
+    },
+    {
+        "img_path": "dreamStudio_7_2_0_1.jpg",
+        "gt_score": 1.8175292280725714
+    },
+    {
+        "img_path": "dreamStudio_7_2_1_0.jpg",
+        "gt_score": 2.6938736387142694
+    },
+    {
+        "img_path": "dreamStudio_7_2_1_1.jpg",
+        "gt_score": 2.023062658200408
+    },
+    {
+        "img_path": "dreamStudio_7_3_0_0.jpg",
+        "gt_score": 1.5728543899320089
+    },
+    {
+        "img_path": "dreamStudio_7_3_0_1.jpg",
+        "gt_score": 2.113094146651932
+    },
+    {
+        "img_path": "dreamStudio_7_3_1_0.jpg",
+        "gt_score": 2.164131686167601
+    },
+    {
+        "img_path": "dreamStudio_7_3_1_1.jpg",
+        "gt_score": 2.0665808671237005
+    },
+    {
+        "img_path": "dreamStudio_7_4_0_0.jpg",
+        "gt_score": 1.8210563187611244
+    },
+    {
+        "img_path": "dreamStudio_7_4_0_1.jpg",
+        "gt_score": 0.7778861900671352
+    },
+    {
+        "img_path": "dreamStudio_7_4_1_0.jpg",
+        "gt_score": 0.9962534580918302
+    },
+    {
+        "img_path": "dreamStudio_7_4_1_1.jpg",
+        "gt_score": 1.2171330201946877
+    },
+    {
+        "img_path": "dreamStudio_7_5_0_0.jpg",
+        "gt_score": 1.5478824844232257
+    },
+    {
+        "img_path": "dreamStudio_7_5_0_1.jpg",
+        "gt_score": 0.39252882474665163
+    },
+    {
+        "img_path": "dreamStudio_7_5_1_0.jpg",
+        "gt_score": 1.4221384483178456
+    },
+    {
+        "img_path": "dreamStudio_7_5_1_1.jpg",
+        "gt_score": 2.033295166192222
+    },
+    {
+        "img_path": "dreamStudio_7_6_0_0.jpg",
+        "gt_score": 2.6585485773687676
+    },
+    {
+        "img_path": "dreamStudio_7_6_0_1.jpg",
+        "gt_score": 2.1005999792273227
+    },
+    {
+        "img_path": "dreamStudio_7_6_1_0.jpg",
+        "gt_score": 0.6540998950321218
+    },
+    {
+        "img_path": "dreamStudio_7_6_1_1.jpg",
+        "gt_score": 1.1905689318647057
+    },
+    {
+        "img_path": "dreamStudio_7_7_0_0.jpg",
+        "gt_score": 1.631006787206495
+    },
+    {
+        "img_path": "dreamStudio_7_7_0_1.jpg",
+        "gt_score": 2.091326548927684
+    },
+    {
+        "img_path": "dreamStudio_7_7_1_0.jpg",
+        "gt_score": 2.0868258171201726
+    },
+    {
+        "img_path": "dreamStudio_7_7_1_1.jpg",
+        "gt_score": 1.9690115282162757
+    },
+    {
+        "img_path": "dreamStudio_7_8_0_0.jpg",
+        "gt_score": 2.2445155757866164
+    },
+    {
+        "img_path": "dreamStudio_7_8_0_1.jpg",
+        "gt_score": 2.1946426165234976
+    },
+    {
+        "img_path": "dreamStudio_7_8_1_0.jpg",
+        "gt_score": 2.3139007889510825
+    },
+    {
+        "img_path": "dreamStudio_7_8_1_1.jpg",
+        "gt_score": 2.511615823405414
+    },
+    {
+        "img_path": "dreamStudio_7_9_0_0.jpg",
+        "gt_score": 2.4616884197689433
+    },
+    {
+        "img_path": "dreamStudio_7_9_0_1.jpg",
+        "gt_score": 0.06534735312986477
+    },
+    {
+        "img_path": "dreamStudio_7_9_1_0.jpg",
+        "gt_score": 0.5230552518228433
+    },
+    {
+        "img_path": "dreamStudio_7_9_1_1.jpg",
+        "gt_score": 2.1513196735694904
+    },
+    {
+        "img_path": "dreamStudio_8_0_0_0.jpg",
+        "gt_score": 1.9582942148167903
+    },
+    {
+        "img_path": "dreamStudio_8_0_0_1.jpg",
+        "gt_score": 2.1671465806485664
+    },
+    {
+        "img_path": "dreamStudio_8_0_1_0.jpg",
+        "gt_score": 2.0666855191047073
+    },
+    {
+        "img_path": "dreamStudio_8_0_1_1.jpg",
+        "gt_score": 2.290224560637543
+    },
+    {
+        "img_path": "dreamStudio_8_1_0_0.jpg",
+        "gt_score": 2.000183652759016
+    },
+    {
+        "img_path": "dreamStudio_8_1_0_1.jpg",
+        "gt_score": 1.3653366681545298
+    },
+    {
+        "img_path": "dreamStudio_8_1_1_0.jpg",
+        "gt_score": 0.9118339419051783
+    },
+    {
+        "img_path": "dreamStudio_8_1_1_1.jpg",
+        "gt_score": 0.6920654301928758
+    },
+    {
+        "img_path": "dreamStudio_8_2_0_0.jpg",
+        "gt_score": 1.6851138037924662
+    },
+    {
+        "img_path": "dreamStudio_8_2_0_1.jpg",
+        "gt_score": 1.5588021355971555
+    },
+    {
+        "img_path": "dreamStudio_8_2_1_0.jpg",
+        "gt_score": 1.2457617644991386
+    },
+    {
+        "img_path": "dreamStudio_8_2_1_1.jpg",
+        "gt_score": 0.6008160824881243
+    },
+    {
+        "img_path": "dreamStudio_8_3_0_0.jpg",
+        "gt_score": 0.04752709297410485
+    },
+    {
+        "img_path": "dreamStudio_8_3_0_1.jpg",
+        "gt_score": 0.6161256263032774
+    },
+    {
+        "img_path": "dreamStudio_8_3_1_0.jpg",
+        "gt_score": 1.7149436552909818
+    },
+    {
+        "img_path": "dreamStudio_8_3_1_1.jpg",
+        "gt_score": 1.4573714632379542
+    },
+    {
+        "img_path": "dreamStudio_8_4_0_0.jpg",
+        "gt_score": 1.6519876951817627
+    },
+    {
+        "img_path": "dreamStudio_8_4_0_1.jpg",
+        "gt_score": 1.9933084677622437
+    },
+    {
+        "img_path": "dreamStudio_8_4_1_0.jpg",
+        "gt_score": 1.0145586913388853
+    },
+    {
+        "img_path": "dreamStudio_8_4_1_1.jpg",
+        "gt_score": 1.7201972027540398
+    },
+    {
+        "img_path": "dreamStudio_8_5_0_1.jpg",
+        "gt_score": 1.7948514114282228
+    },
+    {
+        "img_path": "dreamStudio_8_5_1_0.jpg",
+        "gt_score": 0.47977952312093725
+    },
+    {
+        "img_path": "dreamStudio_8_5_1_1.jpg",
+        "gt_score": 1.0079940186339242
+    },
+    {
+        "img_path": "dreamStudio_8_6_0_0.jpg",
+        "gt_score": 1.519423971180305
+    },
+    {
+        "img_path": "dreamStudio_8_6_0_1.jpg",
+        "gt_score": 0.9631859623740802
+    },
+    {
+        "img_path": "dreamStudio_8_6_1_0.jpg",
+        "gt_score": 1.6804163029926713
+    },
+    {
+        "img_path": "dreamStudio_8_6_1_1.jpg",
+        "gt_score": 0.5480513389463769
+    },
+    {
+        "img_path": "dreamStudio_8_7_0_0.jpg",
+        "gt_score": 1.7830605820601215
+    },
+    {
+        "img_path": "dreamStudio_8_7_0_1.jpg",
+        "gt_score": 2.25351471483635
+    },
+    {
+        "img_path": "dreamStudio_8_7_1_0.jpg",
+        "gt_score": 0.22996197668360532
+    },
+    {
+        "img_path": "dreamStudio_8_7_1_1.jpg",
+        "gt_score": 2.208382453393875
+    },
+    {
+        "img_path": "dreamStudio_8_8_0_0.jpg",
+        "gt_score": 1.9143067101746802
+    },
+    {
+        "img_path": "dreamStudio_8_8_0_1.jpg",
+        "gt_score": 1.0239161585165357
+    },
+    {
+        "img_path": "dreamStudio_8_8_1_0.jpg",
+        "gt_score": 2.32073327246958
+    },
+    {
+        "img_path": "dreamStudio_8_8_1_1.jpg",
+        "gt_score": 1.7484202019631438
+    },
+    {
+        "img_path": "dreamStudio_8_9_0_0.jpg",
+        "gt_score": 1.4402272437316934
+    },
+    {
+        "img_path": "dreamStudio_8_9_0_1.jpg",
+        "gt_score": 0.016814677712928286
+    },
+    {
+        "img_path": "dreamStudio_8_9_1_0.jpg",
+        "gt_score": 0.6081769257617308
+    },
+    {
+        "img_path": "dreamStudio_8_9_1_1.jpg",
+        "gt_score": 0.4414155439958131
+    },
+    {
+        "img_path": "dreamStudio_8_9_1_1.jpg",
+        "gt_score": 2.084115711537598
+    }
+]
