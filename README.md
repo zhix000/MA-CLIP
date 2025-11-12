@@ -7,7 +7,7 @@
 <h1>Beyond Cosine Similarity: Magnitude-Aware CLIP for No-Reference Image Quality Assessment</h1>
 
 <div>
-    <a href='https://lyl1015.github.io/' target='_blank'>Zhicheng Liao</a><sup>1</sup>&emsp;
+    <a href='https://github.com/zhix000?tab=repositories' target='_blank'>Zhicheng Liao</a><sup>1</sup>&emsp;
     <a href='' target='_blank'>Dongxu Wu</a><sup>1</sup>&emsp;
     <a href='' target='_blank'>Zhenshan Shi</a><sup>1</sup>&emsp;
     <a href='https://scholar.google.com/citations?hl=zh-CN&user=pLHqgLIAAAAJ' target='_blank'>Sijie Mai</a><sup>1</sup>&emsp;
@@ -32,7 +32,7 @@
 <div>
     <h4 align="center">
         • <a href="https://arxiv.org/pdf/2407.14900" target='_blank'>[arXiv]</a> • 
-        <a href="https://aglldiff.github.io/" target='_blank'>[Project Page]</a> •
+        <a href="https://maclip-github-io.vercel.app/" target='_blank'>[Project Page]</a> •
     </h4>
 </div>
 
