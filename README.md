@@ -61,7 +61,7 @@
 
 ```
 # git clone this repository
-git clone https://github.com/zhix000/Maclip.git  # 替换为实际仓库地址
+git clone https://github.com/zhix000/Maclip.git
 cd Maclip
 
 # create new anaconda env
@@ -69,7 +69,7 @@ conda create -n maclip python=3.8 -y
 conda activate maclip
 
 # install python dependencies
-pip install -r requirements.txt  # 补充其他依赖
+pip install -r requirements.txt
 ```
 
 
