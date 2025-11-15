@@ -31,7 +31,7 @@
 
 <div>
     <h4 align="center">
-        • <a href="https://arxiv.org/pdf/2407.14900" target='_blank'>[arXiv]</a> • 
+        • <a href="https://arxiv.org/pdf/2511.09948" target='_blank'>[arXiv]</a> • 
         <a href="https://maclip-github-io.vercel.app/" target='_blank'>[Project Page]</a> •
     </h4>
 </div>
@@ -112,7 +112,7 @@ If you find our work useful for your research, please consider citing the paper:
   Author = {Liao, Zhicheng and Wu, Dongxu and Shi, Zhenshan and Mai, Sijie and Zhu, Hanwei and Zhu, Lingyu and Jiang, Yuncheng and Chen, Baoliang},
   Title  = {Beyond Cosine Similarity: Magnitude-Aware CLIP for No-Reference Image Quality Assessment},
   year      ={2025}, 
-  eprint    ={2407.14900}, 
+  eprint    ={2511.09948}, 
   archivePrefix={arXiv}, 
   primaryClass={cs.CV},
 }
