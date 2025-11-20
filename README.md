@@ -108,13 +108,11 @@ The model supports customizing evaluation behavior through parameters in `model.
 ## :love_you_gesture: Citation
 If you find our work useful for your research, please consider citing the paper:
 ```
-@misc{liao2025beyond,
-  Author = {Liao, Zhicheng and Wu, Dongxu and Shi, Zhenshan and Mai, Sijie and Zhu, Hanwei and Zhu, Lingyu and Jiang, Yuncheng and Chen, Baoliang},
-  Title  = {Beyond Cosine Similarity: Magnitude-Aware CLIP for No-Reference Image Quality Assessment},
-  year      ={2025}, 
-  eprint    ={2511.09948}, 
-  archivePrefix={arXiv}, 
-  primaryClass={cs.CV},
+@article{liao2025beyond,
+  title={Beyond Cosine Similarity Magnitude-Aware CLIP for No-Reference Image Quality Assessment},
+  author={Liao, Zhicheng and Wu, Dongxu and Shi, Zhenshan and Mai, Sijie and Zhu, Hanwei and Zhu, Lingyu and Jiang, Yuncheng and Chen, Baoliang},
+  journal={arXiv preprint arXiv:2511.09948},
+  year={2025}
 }
 ```
 
